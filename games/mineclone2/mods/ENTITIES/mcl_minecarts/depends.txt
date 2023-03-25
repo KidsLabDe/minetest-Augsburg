@@ -1,0 +1,11 @@
+mcl_explosions
+mcl_core
+mcl_sounds
+mcl_player
+mcl_achievements
+mcl_chests
+mcl_furnaces
+mesecons_commandblock
+mcl_hoppers
+mesecons
+doc_identifier?

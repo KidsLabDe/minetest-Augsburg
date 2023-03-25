@@ -1,0 +1,9 @@
+# textdomain: pixelart
+
+# Descriptions
+Pixel @1=Pixel @1
+Current Palette: @1=Aktuelle Palette: @1
+
+# Messages
+Not enough room for this pixel!=Für diesen Pixel ist kein Platz im Inventar!
+You need @1 for this pixel!=Für diesen Pixel wird @1 benötigt!

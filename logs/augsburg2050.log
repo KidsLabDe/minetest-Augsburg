@@ -1,0 +1,1536 @@
+
+
+-------------
+  Separator
+-------------
+
+2023-03-25 17:18:07: [Main]: Using world specified by --worldname on the command line
+2023-03-25 17:18:07: ERROR[Main]: mod "morebricks" has unsatisfied dependencies:  "moreblocks"
+2023-03-25 17:18:07: WARNING[Main]: You have unsatisfied dependencies, loading your world anyway. This will become a fatal error in the future.
+2023-03-25 17:18:07: WARNING[Main]: Mod we_undo at /config/.minetest/mods/we_undo:
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: Mod worldeditadditions_core at /config/.minetest/mods/worldeditadditions/worldeditadditions_core:
+2023-03-25 17:18:07: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: Mod edutest_chatcommands at /config/.minetest/mods/edutest_chatcommands:
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: Mod display_api at /config/.minetest/mods/display_api:
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: ACTION[Main]: New font registered in font_api: tinycurs.
+2023-03-25 17:18:07: WARNING[Main]: Mod worldeditadditions at /config/.minetest/mods/worldeditadditions/worldeditadditions:
+2023-03-25 17:18:07: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: Mod worldeditadditions_farwand at /config/.minetest/mods/worldeditadditions/worldeditadditions_farwand:
+2023-03-25 17:18:07: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: Mod worldeditadditions_commands at /config/.minetest/mods/worldeditadditions/worldeditadditions_commands:
+2023-03-25 17:18:07: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: ACTION[Main]: [WorldEditAdditions] bonemeal mod not detected: //bonemeal and //forest commands not registered (if you see this message and you're using an alternative mod that provides bonemeal, please get in touch by opening an issue)
+2023-03-25 17:18:07: ERROR[Main]: worldedit_shortcommands: original bonemeal does not exist
+2023-03-25 17:18:07: WARNING[Main]: Mod travelnet at /config/.minetest/mods/travelnet:
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: WARNING[Main]: 	description.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:07: [Main]: [w2mt] Loading map.dat from /config/.minetest/mods/world2minetest/map.dat
+2023-03-25 17:18:07: [Main]: [w2mt] map.dat loaded! offset_x:1642 offset_z:2022 width:3286 height:4045 len:53167480 no incr data
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: [colored_concrete]: Not registering craft for 'colored_concrete:lightblue_concrete' because 'dye:lightblue' is not a registered item!
+2023-03-25 17:18:07: WARNING[Main]: [colored_concrete]: Not registering craft for 'colored_concrete:lightgreen_concrete' because 'dye:lightgreen' is not a registered item!
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_on -> homedecor:rope_light_on_floor_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_on -> homedecor:rope_light_on_ceiling_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_on -> homedecor:plasma_ball_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_off -> homedecor:rope_light_on_floor_0
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_off -> homedecor:rope_light_on_ceiling_0
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_off -> homedecor:plasma_ball_0
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_half_max -> homedecor:glowlight_half_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_quarter_max -> homedecor:glowlight_quarter_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_small_cube_max -> homedecor:glowlight_small_cube_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_lamp_max -> homedecor:plasma_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ground_lantern_max -> homedecor:ground_lantern_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:hanging_lantern_max -> homedecor:hanging_lantern_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lantern_max -> homedecor:ceiling_lantern_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_large_max -> homedecor:lattice_lantern_large_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_small_max -> homedecor:lattice_lantern_small_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:desk_lamp_max -> homedecor:desk_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lamp_max -> homedecor:ceiling_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:table_lamp_max -> homedecor:table_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:standing_lamp_max -> homedecor:standing_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp_max -> homedecor:table_lamp_14
+2023-03-25 17:18:07: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:226
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:257
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
+2023-03-25 17:18:07: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp -> homedecor:table_lamp_off
+2023-03-25 17:18:07: WARNING[Main]: Mod edutest at /config/.minetest/mods/edutest:
+2023-03-25 17:18:07: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:18:08: ACTION[Main]: World at [/config/.minetest/worlds/augsburg]
+2023-03-25 17:18:08: ACTION[Main]: Server for gameid="antigrief" listening on 0.0.0.0:30100.
+2023-03-25 17:18:24: ACTION[Server]: Gregor [79.196.28.149] joins game. List of players: Gregor
+2023-03-25 17:18:24: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-03-25 17:18:24: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (-32,-32,-32) to (47,47,47)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (48,-32,-32) to (127,47,47)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (-112,-32,-32) to (-33,47,47)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (-112,-112,-32) to (-33,-33,47)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (-112,48,-32) to (-33,127,47)
+2023-03-25 17:18:24: [Emerge-0]: [w2mt] Generating (-32,-112,-32) to (47,-33,47)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-32,48,-32) to (47,127,47)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,-112,-32) to (127,-33,47)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,48,-32) to (127,127,47)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,-32,48) to (127,47,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-112,-32,48) to (-33,47,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-32,-32,48) to (47,47,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,48,48) to (127,127,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-112,48,48) to (-33,127,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,-112,48) to (127,-33,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-112,-112,48) to (-33,-33,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-32,-112,48) to (47,-33,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-32,48,48) to (47,127,127)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (-32,-32,-112) to (47,47,-33)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,-32,-112) to (127,47,-33)
+2023-03-25 17:18:25: [Emerge-0]: [w2mt] Generating (48,-112,-112) to (127,-33,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (48,48,-112) to (127,127,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-32,-112,-112) to (47,-33,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-32,48,-112) to (47,127,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-112,-32,-112) to (-33,47,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-112,-112,-112) to (-33,-33,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-112,48,-112) to (-33,127,-33)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (48,-32,-192) to (127,47,-113)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-112,-32,-192) to (-33,47,-113)
+2023-03-25 17:18:26: [Emerge-0]: [w2mt] Generating (-32,-32,-192) to (47,47,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (48,-112,-192) to (127,-33,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-112,-112,-192) to (-33,-33,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-32,-112,-192) to (47,-33,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (128,-32,-192) to (207,47,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-192,-32,-192) to (-113,47,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (128,-32,-112) to (207,47,-33)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (128,48,-192) to (207,127,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-112,48,-192) to (-33,127,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-32,48,-192) to (47,127,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (48,48,-192) to (127,127,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (128,-112,-192) to (207,-33,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (-192,-112,-192) to (-113,-33,-113)
+2023-03-25 17:18:27: [Emerge-0]: [w2mt] Generating (128,-112,-112) to (207,-33,-33)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (-32,128,-32) to (47,207,47)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,-32,-32) to (207,47,47)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,-32,48) to (207,47,127)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,-112,-32) to (207,-33,47)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,-112,48) to (207,-33,127)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,-32,128) to (207,47,207)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,48,-32) to (207,127,47)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,48,48) to (207,127,127)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (128,48,-112) to (207,127,-33)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (48,-32,128) to (127,47,207)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (-192,-32,48) to (-113,47,127)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (-192,-112,48) to (-113,-33,127)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (-192,-32,128) to (-113,47,207)
+2023-03-25 17:18:28: [Emerge-0]: [w2mt] Generating (-112,-32,128) to (-33,47,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (-32,-32,128) to (47,47,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (-192,-112,128) to (-113,-33,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (-112,-112,128) to (-33,-33,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (-32,-112,128) to (47,-33,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (48,-112,128) to (127,-33,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (128,-112,128) to (207,-33,207)
+2023-03-25 17:18:29: [Emerge-0]: [w2mt] Generating (-112,48,128) to (-33,127,207)
+2023-03-25 17:18:30: [Emerge-0]: [w2mt] Generating (-32,48,128) to (47,127,207)
+2023-03-25 17:18:30: [Emerge-0]: [w2mt] Generating (48,48,128) to (127,127,207)
+2023-03-25 17:18:30: [Emerge-0]: [w2mt] Generating (-192,-112,-112) to (-113,-33,-33)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,-32,-112) to (-113,47,-33)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,-112,-32) to (-113,-33,47)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,-32,-32) to (-113,47,47)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,48,-192) to (-113,127,-113)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,48,-112) to (-113,127,-33)
+2023-03-25 17:18:31: [Emerge-0]: [w2mt] Generating (-192,48,-32) to (-113,127,47)
+2023-03-25 17:18:32: [Emerge-0]: [w2mt] Generating (-192,128,-112) to (-113,207,-33)
+2023-03-25 17:18:32: [Emerge-0]: [w2mt] Generating (-192,48,48) to (-113,127,127)
+2023-03-25 17:18:35: ACTION[Server]: Gregor leaves game. List of players: 
+2023-03-25 17:18:37: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2023-03-25 17:18:37: ACTION[Main]: Server: Shutting down
+
+
+-------------
+  Separator
+-------------
+
+2023-03-25 17:23:35: [Main]: Using world specified by --worldname on the command line
+2023-03-25 17:23:35: ERROR[Main]: mod "morebricks" has unsatisfied dependencies:  "moreblocks"
+2023-03-25 17:23:35: WARNING[Main]: You have unsatisfied dependencies, loading your world anyway. This will become a fatal error in the future.
+2023-03-25 17:23:35: WARNING[Main]: Mod we_undo at /config/.minetest/mods/we_undo:
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: Mod worldeditadditions_core at /config/.minetest/mods/worldeditadditions/worldeditadditions_core:
+2023-03-25 17:23:35: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: Mod edutest_chatcommands at /config/.minetest/mods/edutest_chatcommands:
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: Mod display_api at /config/.minetest/mods/display_api:
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: ACTION[Main]: New font registered in font_api: tinycurs.
+2023-03-25 17:23:35: WARNING[Main]: Mod worldeditadditions at /config/.minetest/mods/worldeditadditions/worldeditadditions:
+2023-03-25 17:23:35: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: Mod worldeditadditions_farwand at /config/.minetest/mods/worldeditadditions/worldeditadditions_farwand:
+2023-03-25 17:23:35: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: Mod worldeditadditions_commands at /config/.minetest/mods/worldeditadditions/worldeditadditions_commands:
+2023-03-25 17:23:35: WARNING[Main]: 	Mods not having a mod.conf file with the name is deprecated.
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: ACTION[Main]: [WorldEditAdditions] bonemeal mod not detected: //bonemeal and //forest commands not registered (if you see this message and you're using an alternative mod that provides bonemeal, please get in touch by opening an issue)
+2023-03-25 17:23:35: ERROR[Main]: worldedit_shortcommands: original bonemeal does not exist
+2023-03-25 17:23:35: WARNING[Main]: Mod travelnet at /config/.minetest/mods/travelnet:
+2023-03-25 17:23:35: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: WARNING[Main]: 	description.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:35: [Main]: [w2mt] Loading map.dat from /config/.minetest/mods/world2minetest/map.dat
+2023-03-25 17:23:36: [Main]: [w2mt] map.dat loaded! offset_x:3082 offset_z:4586 width:6166 height:9174 len:226267536 no incr data
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: [colored_concrete]: Not registering craft for 'colored_concrete:lightblue_concrete' because 'dye:lightblue' is not a registered item!
+2023-03-25 17:23:36: WARNING[Main]: [colored_concrete]: Not registering craft for 'colored_concrete:lightgreen_concrete' because 'dye:lightgreen' is not a registered item!
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_half_max -> homedecor:glowlight_half_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_quarter_max -> homedecor:glowlight_quarter_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:glowlight_small_cube_max -> homedecor:glowlight_small_cube_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_lamp_max -> homedecor:plasma_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ground_lantern_max -> homedecor:ground_lantern_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:hanging_lantern_max -> homedecor:hanging_lantern_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lantern_max -> homedecor:ceiling_lantern_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_large_max -> homedecor:lattice_lantern_large_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:lattice_lantern_small_max -> homedecor:lattice_lantern_small_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:desk_lamp_max -> homedecor:desk_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:ceiling_lamp_max -> homedecor:ceiling_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:table_lamp_max -> homedecor:table_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:standing_lamp_max -> homedecor:standing_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp_max -> homedecor:table_lamp_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_on -> homedecor:rope_light_on_floor_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_on -> homedecor:rope_light_on_ceiling_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_on -> homedecor:plasma_ball_14
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_floor_off -> homedecor:rope_light_on_floor_0
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:rope_light_on_ceiling_off -> homedecor:rope_light_on_ceiling_0
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: homedecor:plasma_ball_off -> homedecor:plasma_ball_0
+2023-03-25 17:23:36: WARNING[Main]: Field "use_texture_alpha": Boolean values are deprecated; use the new choices
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:226
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Undeclared global variable "desc2" accessed at ...netest/mods/homedecor_modpack/homedecor_kitchen/init.lua:257
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_granite has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_granite has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_marble has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_marble has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_steel has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_drawers_steel has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_half has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink_locked has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Node homedecor:kitchen_cabinet_colorable_with_sink has a palette, but not a suitable paramtype2.
+2023-03-25 17:23:36: WARNING[Main]: Not registering alias, item with same name is already defined: 3dforniture:table_lamp -> homedecor:table_lamp_off
+2023-03-25 17:23:36: WARNING[Main]: Mod edutest at /config/.minetest/mods/edutest:
+2023-03-25 17:23:36: WARNING[Main]: 	depends.txt is deprecated, please use mod.conf instead.
+2023-03-25 17:23:36: ACTION[Main]: World at [/config/.minetest/worlds/augsburg]
+2023-03-25 17:23:36: ACTION[Main]: Server for gameid="antigrief" listening on 0.0.0.0:30100.
+2023-03-25 17:23:46: ACTION[Server]: Mentor [79.196.28.149] joins game. List of players: Mentor
+2023-03-25 17:23:46: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-03-25 17:23:46: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-03-25 17:23:46: [Emerge-0]: [w2mt] Generating (-32,-32,-32) to (47,47,47)
+2023-03-25 17:23:46: [Emerge-0]: [w2mt] Generating (-112,-32,-32) to (-33,47,47)
+2023-03-25 17:23:46: [Emerge-0]: [w2mt] Generating (-112,-112,-32) to (-33,-33,47)
+2023-03-25 17:23:46: [Emerge-0]: [w2mt] Generating (-112,48,-32) to (-33,127,47)
+2023-03-25 17:23:46: [Emerge-0]: [w2mt] Generating (-32,-112,-32) to (47,-33,47)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-32,48,-32) to (47,127,47)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (48,-32,-32) to (127,47,47)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (48,-32,48) to (127,47,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-112,-32,48) to (-33,47,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-32,-32,48) to (47,47,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (48,-112,-32) to (127,-33,47)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (48,-112,48) to (127,-33,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-112,-112,48) to (-33,-33,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-32,-112,48) to (47,-33,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-32,48,48) to (47,127,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (48,48,48) to (127,127,127)
+2023-03-25 17:23:47: [Emerge-0]: [w2mt] Generating (-112,48,48) to (-33,127,127)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-192,-32,-32) to (-113,47,47)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-192,-32,48) to (-113,47,127)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-192,-112,-32) to (-113,-33,47)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-192,-112,48) to (-113,-33,127)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-192,48,48) to (-113,127,127)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-112,128,48) to (-33,207,127)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-112,-112,-112) to (-33,-33,-33)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-112,-32,-112) to (-33,47,-33)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-32,-32,-112) to (47,47,-33)
+2023-03-25 17:23:48: [Emerge-0]: [w2mt] Generating (-32,-112,-112) to (47,-33,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-32,-112) to (-113,47,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-112,-112) to (-113,-33,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-112,-192) to (-113,-33,-113)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-112,-112,-192) to (-33,-33,-113)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-32,-192) to (-113,47,-113)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-112,-32,-192) to (-33,47,-113)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,48,-112) to (-113,127,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,48,-32) to (-113,127,47)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-192,-112) to (-113,-113,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-192,-32) to (-113,-113,47)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-192,-192,48) to (-113,-113,127)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-112,-192,-112) to (-33,-113,-33)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-112,-192,-32) to (-33,-113,47)
+2023-03-25 17:23:49: [Emerge-0]: [w2mt] Generating (-112,-192,48) to (-33,-113,127)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-112,-192,-192) to (-33,-113,-113)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (48,-32,-112) to (127,47,-33)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (48,-112,-112) to (127,-33,-33)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-192,-32,128) to (-113,47,207)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-112,-32,128) to (-33,47,207)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-192,-112,128) to (-113,-33,207)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-112,-112,128) to (-33,-33,207)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-192,128,-32) to (-113,207,47)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-192,128,48) to (-113,207,127)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-192,48,128) to (-113,127,207)
+2023-03-25 17:23:50: [Emerge-0]: [w2mt] Generating (-112,-192,128) to (-33,-113,207)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-112,48,-112) to (-33,127,-33)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-32,48,-112) to (47,127,-33)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (48,48,-112) to (127,127,-33)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (48,-32,-192) to (127,47,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-32,-32,-192) to (47,47,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (48,-112,-192) to (127,-33,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-32,-112,-192) to (47,-33,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-32,48,-192) to (47,127,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (48,48,-192) to (127,127,-113)
+2023-03-25 17:23:51: [Emerge-0]: [w2mt] Generating (-112,48,-192) to (-33,127,-113)
+2023-03-25 17:23:52: [Emerge-0]: [w2mt] Generating (-32,-192,-192) to (47,-113,-113)
+2023-03-25 17:23:52: [Emerge-0]: [w2mt] Generating (-32,-192,-112) to (47,-113,-33)
+2023-03-25 17:23:52: [Emerge-0]: [w2mt] Generating (-32,-192,-32) to (47,-113,47)
+2023-03-25 17:23:52: [Emerge-0]: [w2mt] Generating (48,-192,-112) to (127,-113,-33)
+2023-03-25 17:23:52: [Emerge-0]: [w2mt] Generating (48,-192,-32) to (127,-113,47)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-192,128,-192) to (-113,207,-113)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-192,128,-112) to (-113,207,-33)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-192,48,-192) to (-113,127,-113)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,48,-192) to (-193,127,-113)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-32,-192) to (-193,47,-113)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-32,-112) to (-193,47,-33)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-32,-32) to (-193,47,47)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-112,-112) to (-193,-33,-33)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-112,-32) to (-193,-33,47)
+2023-03-25 17:23:53: [Emerge-0]: [w2mt] Generating (-272,-112,-192) to (-193,-33,-113)
+2023-03-25 17:23:54: [Emerge-0]: [w2mt] Generating (-272,48,-112) to (-193,127,-33)
+2023-03-25 17:23:54: [Emerge-0]: [w2mt] Generating (-192,-32,-272) to (-113,47,-193)
+2023-03-25 17:23:54: [Emerge-0]: [w2mt] Generating (-112,-32,-272) to (-33,47,-193)
+2023-03-25 17:23:54: [Emerge-0]: [w2mt] Generating (-112,-112,-272) to (-33,-33,-193)
+2023-03-25 17:23:54: [Emerge-0]: [w2mt] Generating (-192,-112,-272) to (-113,-33,-193)
+2023-03-25 17:23:56: [Emerge-0]: [w2mt] Generating (-272,-32,48) to (-193,47,127)
+2023-03-25 17:23:56: [Emerge-0]: [w2mt] Generating (-272,48,-32) to (-193,127,47)
+2023-03-25 17:23:56: [Emerge-0]: [w2mt] Generating (-272,-112,48) to (-193,-33,127)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,48,48) to (-273,127,127)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,-32,-112) to (-273,47,-33)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,-32,-32) to (-273,47,47)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,-32,48) to (-273,47,127)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-272,-32,128) to (-193,47,207)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,-112,-112) to (-273,-33,-33)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-352,-112,-32) to (-273,-33,47)
+2023-03-25 17:23:57: [Emerge-0]: [w2mt] Generating (-32,-32,128) to (47,47,207)
+2023-03-25 17:23:58: [Emerge-0]: [w2mt] Generating (-272,-112,128) to (-193,-33,207)
+2023-03-25 17:23:58: [Emerge-0]: [w2mt] Generating (-32,-112,128) to (47,-33,207)
+2023-03-25 17:24:00: [Emerge-0]: [w2mt] Generating (-32,48,128) to (47,127,207)
+2023-03-25 17:24:00: [Emerge-0]: [w2mt] Generating (-112,48,128) to (-33,127,207)
+2023-03-25 17:24:03: [Emerge-0]: [w2mt] Generating (48,-32,128) to (127,47,207)
+2023-03-25 17:24:03: [Emerge-0]: [w2mt] Generating (48,-112,128) to (127,-33,207)
+2023-03-25 17:24:05: [Emerge-0]: [w2mt] Generating (48,48,128) to (127,127,207)
+2023-03-25 17:24:05: [Emerge-0]: [w2mt] Generating (-32,-32,208) to (47,47,287)
+2023-03-25 17:24:05: [Emerge-0]: [w2mt] Generating (48,-32,208) to (127,47,287)
+2023-03-25 17:24:05: [Emerge-0]: [w2mt] Generating (-112,-112,208) to (-33,-33,287)
+2023-03-25 17:24:05: [Emerge-0]: [w2mt] Generating (-32,-112,208) to (47,-33,287)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (128,-32,48) to (207,47,127)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (128,-32,128) to (207,47,207)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (128,-112,48) to (207,-33,127)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (48,-112,208) to (127,-33,287)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (128,-112,128) to (207,-33,207)
+2023-03-25 17:24:06: [Emerge-0]: [w2mt] Generating (48,48,208) to (127,127,287)
+2023-03-25 17:24:07: [Emerge-0]: [w2mt] Generating (128,-32,-32) to (207,47,47)
+2023-03-25 17:24:07: [Emerge-0]: [w2mt] Generating (128,-112,-32) to (207,-33,47)
+2023-03-25 17:24:07: [Emerge-0]: [w2mt] Generating (128,-32,208) to (207,47,287)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (128,48,48) to (207,127,127)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (128,48,128) to (207,127,207)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (48,48,-32) to (127,127,47)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (128,-32,-112) to (207,47,-33)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (128,-112,-112) to (207,-33,-33)
+2023-03-25 17:24:08: [Emerge-0]: [w2mt] Generating (128,48,-32) to (207,127,47)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-192,-32,208) to (-113,47,287)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-112,-32,208) to (-33,47,287)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-112,48,208) to (-33,127,287)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-192,48,208) to (-113,127,287)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-32,48,208) to (47,127,287)
+2023-03-25 17:24:09: [Emerge-0]: [w2mt] Generating (-192,-112,208) to (-113,-33,287)
+2023-03-25 17:24:10: [Emerge-0]: [w2mt] Generating (128,-112,208) to (207,-33,287)
+2023-03-25 17:24:13: [Emerge-0]: [w2mt] Generating (128,48,-112) to (207,127,-33)
+2023-03-25 17:24:14: [Emerge-0]: [w2mt] Generating (128,-32,-192) to (207,47,-113)
+2023-03-25 17:24:15: [Emerge-0]: [w2mt] Generating (208,-32,-112) to (287,47,-33)
+2023-03-25 17:24:15: [Emerge-0]: [w2mt] Generating (128,-112,-192) to (207,-33,-113)
+2023-03-25 17:24:15: [Emerge-0]: [w2mt] Generating (128,48,-192) to (207,127,-113)
+2023-03-25 17:24:15: [Emerge-0]: [w2mt] Generating (208,-112,-112) to (287,-33,-33)
+2023-03-25 17:24:17: [Emerge-0]: [w2mt] Generating (208,-32,-192) to (287,47,-113)
+2023-03-25 17:24:18: [Emerge-0]: [w2mt] Generating (48,128,-112) to (127,207,-33)
+2023-03-25 17:24:18: [Emerge-0]: [w2mt] Generating (48,128,-192) to (127,207,-113)
+2023-03-25 17:24:18: [Emerge-0]: [w2mt] Generating (128,128,-192) to (207,207,-113)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (208,-112,-192) to (287,-33,-113)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (-32,-32,-272) to (47,47,-193)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (48,-32,-272) to (127,47,-193)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (128,-32,-272) to (207,47,-193)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (48,-112,-272) to (127,-33,-193)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (-32,-112,-272) to (47,-33,-193)
+2023-03-25 17:24:19: [Emerge-0]: [w2mt] Generating (128,-112,-272) to (207,-33,-193)
+2023-03-25 17:24:20: [Emerge-0]: [w2mt] Generating (48,48,-272) to (127,127,-193)
+2023-03-25 17:24:20: [Emerge-0]: [w2mt] Generating (128,48,-272) to (207,127,-193)
+2023-03-25 17:24:20: [Emerge-0]: [w2mt] Generating (208,-32,-272) to (287,47,-193)
+2023-03-25 17:24:22: [Emerge-0]: [w2mt] Generating (208,-112,-272) to (287,-33,-193)
+2023-03-25 17:24:23: [Emerge-0]: [w2mt] Generating (-32,-32,-352) to (47,47,-273)
+2023-03-25 17:24:23: [Emerge-0]: [w2mt] Generating (48,-32,-352) to (127,47,-273)
+2023-03-25 17:24:23: [Emerge-0]: [w2mt] Generating (128,-32,-352) to (207,47,-273)
+2023-03-25 17:24:23: [Emerge-0]: [w2mt] Generating (48,-112,-352) to (127,-33,-273)
+2023-03-25 17:24:24: [Emerge-0]: [w2mt] Generating (128,-112,-352) to (207,-33,-273)
+2023-03-25 17:24:24: [Emerge-0]: [w2mt] Generating (-32,-112,-352) to (47,-33,-273)
+2023-03-25 17:24:24: [Emerge-0]: [w2mt] Generating (-32,48,-352) to (47,127,-273)
+2023-03-25 17:24:24: [Emerge-0]: [w2mt] Generating (48,48,-352) to (127,127,-273)
+2023-03-25 17:24:24: [Emerge-0]: [w2mt] Generating (-32,48,-272) to (47,127,-193)
+2023-03-25 17:24:25: [Emerge-0]: [w2mt] Generating (208,48,-192) to (287,127,-113)
+2023-03-25 17:24:25: [Emerge-0]: [w2mt] Generating (-112,-32,-352) to (-33,47,-273)
+2023-03-25 17:24:27: [Emerge-0]: [w2mt] Generating (-192,48,-272) to (-113,127,-193)
+2023-03-25 17:24:27: [Emerge-0]: [w2mt] Generating (-112,48,-272) to (-33,127,-193)
+2023-03-25 17:24:27: [Emerge-0]: [w2mt] Generating (-112,-112,-352) to (-33,-33,-273)
+2023-03-25 17:24:56: [Emerge-0]: [w2mt] Generating (288,48,-192) to (367,127,-113)
+2023-03-25 17:24:56: [Emerge-0]: [w2mt] Generating (288,48,-112) to (367,127,-33)
+2023-03-25 17:24:56: [Emerge-0]: [w2mt] Generating (288,-32,-192) to (367,47,-113)
+2023-03-25 17:24:56: [Emerge-0]: [w2mt] Generating (288,-32,-112) to (367,47,-33)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-32,-272) to (367,47,-193)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (208,48,-272) to (287,127,-193)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (208,48,-112) to (287,127,-33)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (208,-32,-32) to (287,47,47)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-32,-32) to (367,47,47)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (208,-112,-32) to (287,-33,47)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-112,-272) to (367,-33,-193)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-112,-192) to (367,-33,-113)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-112,-112) to (367,-33,-33)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (288,-112,-32) to (367,-33,47)
+2023-03-25 17:24:57: [Emerge-0]: [w2mt] Generating (208,48,-32) to (287,127,47)
+2023-03-25 17:24:58: [Emerge-0]: [w2mt] Generating (208,-32,-352) to (287,47,-273)
+2023-03-25 17:24:58: [Emerge-0]: [w2mt] Generating (208,-112,-352) to (287,-33,-273)
+2023-03-25 17:24:58: [Emerge-0]: [w2mt] Generating (288,-112,-352) to (367,-33,-273)
+2023-03-25 17:24:59: [Emerge-0]: [w2mt] Generating (368,48,-192) to (447,127,-113)
+2023-03-25 17:24:59: [Emerge-0]: [w2mt] Generating (448,48,-192) to (527,127,-113)
+2023-03-25 17:24:59: [Emerge-0]: [w2mt] Generating (368,48,-112) to (447,127,-33)
+2023-03-25 17:24:59: [Emerge-0]: [w2mt] Generating (368,-32,-192) to (447,47,-113)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-32,-112) to (447,47,-33)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (448,-32,-192) to (527,47,-113)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-32,-272) to (447,47,-193)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (448,-32,-112) to (527,47,-33)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (288,48,-272) to (367,127,-193)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-32,-32) to (447,47,47)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-112,-272) to (447,-33,-193)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-112,-192) to (447,-33,-113)
+2023-03-25 17:25:00: [Emerge-0]: [w2mt] Generating (368,-112,-112) to (447,-33,-33)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (368,-112,-32) to (447,-33,47)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (448,-112,-192) to (527,-33,-113)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (448,-112,-112) to (527,-33,-33)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (288,48,-32) to (367,127,47)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (288,-32,-352) to (367,47,-273)
+2023-03-25 17:25:01: [Emerge-0]: [w2mt] Generating (368,-32,-352) to (447,47,-273)
+2023-03-25 17:25:02: [Emerge-0]: [w2mt] Generating (368,-112,-352) to (447,-33,-273)
+2023-03-25 17:25:02: [Emerge-0]: [w2mt] Generating (288,128,-192) to (367,207,-113)
+2023-03-25 17:25:02: [Emerge-0]: [w2mt] Generating (288,128,-112) to (367,207,-33)
+2023-03-25 17:25:02: [Emerge-0]: [w2mt] Generating (208,128,-192) to (287,207,-113)
+2023-03-25 17:25:02: [Emerge-0]: [w2mt] Generating (208,128,-112) to (287,207,-33)
+2023-03-25 17:25:05: [Emerge-0]: [w2mt] Generating (528,48,-192) to (607,127,-113)
+2023-03-25 17:25:05: [Emerge-0]: [w2mt] Generating (528,48,-112) to (607,127,-33)
+2023-03-25 17:25:05: [Emerge-0]: [w2mt] Generating (368,48,-272) to (447,127,-193)
+2023-03-25 17:25:06: [Emerge-0]: [w2mt] Generating (448,48,-112) to (527,127,-33)
+2023-03-25 17:25:06: [Emerge-0]: [w2mt] Generating (288,48,-352) to (367,127,-273)
+2023-03-25 17:25:06: [Emerge-0]: [w2mt] Generating (528,48,-32) to (607,127,47)
+2023-03-25 17:25:07: [Emerge-0]: [w2mt] Generating (288,128,-272) to (367,207,-193)
+2023-03-25 17:25:07: [Emerge-0]: [w2mt] Generating (368,128,-272) to (447,207,-193)
+2023-03-25 17:25:07: [Emerge-0]: [w2mt] Generating (368,128,-192) to (447,207,-113)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (448,-32,-272) to (527,47,-193)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (448,-32,-352) to (527,47,-273)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (208,208,-192) to (287,287,-113)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (288,208,-192) to (367,287,-113)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (448,-112,-352) to (527,-33,-273)
+2023-03-25 17:25:08: [Emerge-0]: [w2mt] Generating (448,-112,-272) to (527,-33,-193)
+2023-03-25 17:25:11: [Emerge-0]: [w2mt] Generating (448,-32,-32) to (527,47,47)
+2023-03-25 17:25:11: [Emerge-0]: [w2mt] Generating (368,48,-32) to (447,127,47)
+2023-03-25 17:25:14: [Emerge-0]: [w2mt] Generating (288,-32,-432) to (367,47,-353)
+2023-03-25 17:25:14: [Emerge-0]: [w2mt] Generating (368,-32,-432) to (447,47,-353)
+2023-03-25 17:25:14: [Emerge-0]: [w2mt] Generating (288,48,-432) to (367,127,-353)
+2023-03-25 17:25:14: [Emerge-0]: [w2mt] Generating (208,-32,-432) to (287,47,-353)
+2023-03-25 17:25:19: [Emerge-0]: [w2mt] Generating (368,48,-352) to (447,127,-273)
+2023-03-25 17:26:00: [Emerge-0]: [w2mt] Generating (208,48,-352) to (287,127,-273)
+2023-03-25 17:26:00: [Emerge-0]: [w2mt] Generating (288,208,-272) to (367,287,-193)
+2023-03-25 17:26:01: [Emerge-0]: [w2mt] Generating (208,288,-272) to (287,367,-193)
+2023-03-25 17:26:01: [Emerge-0]: [w2mt] Generating (288,288,-272) to (367,367,-193)
+2023-03-25 17:26:02: [Emerge-0]: [w2mt] Generating (208,128,-272) to (287,207,-193)
+2023-03-25 17:26:03: [Emerge-0]: [w2mt] Generating (128,48,-352) to (207,127,-273)
+2023-03-25 17:26:03: [Emerge-0]: [w2mt] Generating (448,48,-272) to (527,127,-193)
+2023-03-25 17:26:03: [Emerge-0]: [w2mt] Generating (368,48,-432) to (447,127,-353)
+2023-03-25 17:26:03: [Emerge-0]: [w2mt] Generating (208,48,-432) to (287,127,-353)
+2023-03-25 17:26:11: [Emerge-0]: [w2mt] Generating (448,48,-352) to (527,127,-273)
+2023-03-25 17:26:14: [Emerge-0]: [w2mt] Generating (528,-32,-192) to (607,47,-113)
+2023-03-25 17:26:14: [Emerge-0]: [w2mt] Generating (528,-32,-272) to (607,47,-193)
+2023-03-25 17:26:14: [Emerge-0]: [w2mt] Generating (448,-32,-432) to (527,47,-353)
+2023-03-25 17:26:14: [Emerge-0]: [w2mt] Generating (528,48,-272) to (607,127,-193)
+2023-03-25 17:26:14: [Emerge-0]: [w2mt] Generating (528,128,-272) to (607,207,-193)
+2023-03-25 17:26:16: [Emerge-0]: [w2mt] Generating (448,128,-272) to (527,207,-193)
+2023-03-25 17:26:16: [Emerge-0]: [w2mt] Generating (528,-32,-352) to (607,47,-273)
+2023-03-25 17:26:17: [Emerge-0]: [w2mt] Generating (528,-32,-112) to (607,47,-33)
+2023-03-25 17:26:17: [Emerge-0]: [w2mt] Generating (528,-112,-272) to (607,-33,-193)
+2023-03-25 17:26:17: [Emerge-0]: [w2mt] Generating (528,-112,-192) to (607,-33,-113)
+2023-03-25 17:26:18: [Emerge-0]: [w2mt] Generating (528,-112,-352) to (607,-33,-273)
+2023-03-25 17:26:18: [Emerge-0]: [w2mt] Generating (608,-32,-272) to (687,47,-193)
+2023-03-25 17:26:18: [Emerge-0]: [w2mt] Generating (608,-32,-192) to (687,47,-113)
+2023-03-25 17:26:18: [Emerge-0]: [w2mt] Generating (608,48,-272) to (687,127,-193)
+2023-03-25 17:26:19: [Emerge-0]: [w2mt] Generating (608,128,-272) to (687,207,-193)
+2023-03-25 17:26:20: [Emerge-0]: [w2mt] Generating (608,-32,-352) to (687,47,-273)
+2023-03-25 17:26:20: [Emerge-0]: [w2mt] Generating (608,-32,-112) to (687,47,-33)
+2023-03-25 17:26:20: [Emerge-0]: [w2mt] Generating (528,-32,-432) to (607,47,-353)
+2023-03-25 17:26:21: [Emerge-0]: [w2mt] Generating (368,208,-272) to (447,287,-193)
+2023-03-25 17:26:21: [Emerge-0]: [w2mt] Generating (608,-112,-352) to (687,-33,-273)
+2023-03-25 17:26:21: [Emerge-0]: [w2mt] Generating (608,-112,-272) to (687,-33,-193)
+2023-03-25 17:26:21: [Emerge-0]: [w2mt] Generating (608,-112,-192) to (687,-33,-113)
+2023-03-25 17:26:21: [Emerge-0]: [w2mt] Generating (528,-112,-112) to (607,-33,-33)
+2023-03-25 17:26:22: [Emerge-0]: [w2mt] Generating (688,-32,-272) to (767,47,-193)
+2023-03-25 17:26:22: [Emerge-0]: [w2mt] Generating (608,48,-192) to (687,127,-113)
+2023-03-25 17:26:22: [Emerge-0]: [w2mt] Generating (688,-32,-352) to (767,47,-273)
+2023-03-25 17:26:22: [Emerge-0]: [w2mt] Generating (688,-32,-192) to (767,47,-113)
+2023-03-25 17:26:23: [Emerge-0]: [w2mt] Generating (608,-112,-112) to (687,-33,-33)
+2023-03-25 17:26:23: [Emerge-0]: [w2mt] Generating (688,48,-272) to (767,127,-193)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (608,-32,-432) to (687,47,-353)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (688,-112,-272) to (767,-33,-193)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (688,-32,-112) to (767,47,-33)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (688,-112,-192) to (767,-33,-113)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (608,48,-352) to (687,127,-273)
+2023-03-25 17:26:24: [Emerge-0]: [w2mt] Generating (688,48,-192) to (767,127,-113)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (688,-112,-352) to (767,-33,-273)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (528,48,-352) to (607,127,-273)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (688,48,-432) to (767,127,-353)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (688,48,-352) to (767,127,-273)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (688,-32,-432) to (767,47,-353)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (528,-112,-432) to (607,-33,-353)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (608,-112,-432) to (687,-33,-353)
+2023-03-25 17:26:25: [Emerge-0]: [w2mt] Generating (448,128,-112) to (527,207,-33)
+2023-03-25 17:26:26: [Emerge-0]: [w2mt] Generating (528,208,-272) to (607,287,-193)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (448,-192,-272) to (527,-113,-193)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (448,-192,-352) to (527,-113,-273)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (448,-192,-192) to (527,-113,-113)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (528,-192,-352) to (607,-113,-273)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (528,-192,-272) to (607,-113,-193)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (528,-192,-192) to (607,-113,-113)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (608,-192,-352) to (687,-113,-273)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (608,-192,-272) to (687,-113,-193)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (608,-192,-192) to (687,-113,-113)
+2023-03-25 17:26:28: [Emerge-0]: [w2mt] Generating (528,128,-192) to (607,207,-113)
+2023-03-25 17:26:29: [Emerge-0]: [w2mt] Generating (528,-192,-432) to (607,-113,-353)
+2023-03-25 17:26:29: [Emerge-0]: [w2mt] Generating (688,-192,-272) to (767,-113,-193)
+2023-03-25 17:26:29: [Emerge-0]: [w2mt] Generating (608,-192,-432) to (687,-113,-353)
+2023-03-25 17:26:31: [Emerge-0]: [w2mt] Generating (688,-112,-112) to (767,-33,-33)
+2023-03-25 17:26:31: [Emerge-0]: [w2mt] Generating (688,-112,-432) to (767,-33,-353)
+2023-03-25 17:26:31: [Emerge-0]: [w2mt] Generating (448,-192,-112) to (527,-113,-33)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (528,-192,-112) to (607,-113,-33)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (608,-192,-112) to (687,-113,-33)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (688,-192,-352) to (767,-113,-273)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (688,-192,-192) to (767,-113,-113)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (368,-192,-272) to (447,-113,-193)
+2023-03-25 17:26:32: [Emerge-0]: [w2mt] Generating (368,-192,-192) to (447,-113,-113)
+2023-03-25 17:26:34: [Emerge-0]: [w2mt] Generating (368,-192,-352) to (447,-113,-273)
+2023-03-25 17:26:41: ACTION[Server]: Mentor places node travelnet:travelnet at (574,1,-227)
+2023-03-25 17:26:41: WARNING[Server]: Undeclared global variable "station_network" accessed at /config/.minetest/mods/travelnet/init.lua:237
+2023-03-25 17:26:41: WARNING[Server]: Assignment to undeclared global "station_network" inside a function at /config/.minetest/mods/travelnet/init.lua:238.
+2023-03-25 17:26:41: WARNING[Server]: Undeclared global variable "station_name" accessed at /config/.minetest/mods/travelnet/init.lua:246
+2023-03-25 17:26:45: WARNING[Server]: Undeclared global variable "locks" accessed at /config/.minetest/mods/travelnet/init.lua:674
+2023-03-25 17:26:45: WARNING[Server]: Assignment to undeclared global "formspec" inside a function at /config/.minetest/mods/travelnet/init.lua:198.
+2023-03-25 17:26:48: [Emerge-0]: [w2mt] Generating (368,-112,-432) to (447,-33,-353)
+2023-03-25 17:26:48: [Emerge-0]: [w2mt] Generating (448,-112,-432) to (527,-33,-353)
+2023-03-25 17:26:54: [Emerge-0]: [w2mt] Generating (288,-112,-432) to (367,-33,-353)
+2023-03-25 17:27:04: [Emerge-0]: [w2mt] Generating (128,48,-432) to (207,127,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (128,-32,-432) to (207,47,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (128,-112,-432) to (207,-33,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (208,-112,-432) to (287,-33,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (48,48,-432) to (127,127,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (48,-32,-432) to (127,47,-353)
+2023-03-25 17:27:05: [Emerge-0]: [w2mt] Generating (48,-112,-432) to (127,-33,-353)
+2023-03-25 17:27:06: [Emerge-0]: [w2mt] Generating (-32,48,-432) to (47,127,-353)
+2023-03-25 17:27:06: [Emerge-0]: [w2mt] Generating (-32,-32,-432) to (47,47,-353)
+2023-03-25 17:27:06: [Emerge-0]: [w2mt] Generating (-32,-112,-432) to (47,-33,-353)
+2023-03-25 17:27:06: [Emerge-0]: [w2mt] Generating (-112,48,-352) to (-33,127,-273)
+2023-03-25 17:27:10: [Emerge-0]: [w2mt] Generating (208,128,-352) to (287,207,-273)
+2023-03-25 17:27:24: [Emerge-0]: [w2mt] Generating (48,128,-32) to (127,207,47)
+2023-03-25 17:27:24: [Emerge-0]: [w2mt] Generating (208,48,48) to (287,127,127)
+2023-03-25 17:27:25: [Emerge-0]: [w2mt] Generating (208,-32,48) to (287,47,127)
+2023-03-25 17:27:25: [Emerge-0]: [w2mt] Generating (208,-112,48) to (287,-33,127)
+2023-03-25 17:27:29: [Emerge-0]: [w2mt] Generating (-112,128,-112) to (-33,207,-33)
+2023-03-25 17:27:29: [Emerge-0]: [w2mt] Generating (-32,128,-112) to (47,207,-33)
+2023-03-25 17:27:34: [Emerge-0]: [w2mt] Generating (-32,-192,-272) to (47,-113,-193)
+2023-03-25 17:27:34: [Emerge-0]: [w2mt] Generating (48,-192,-272) to (127,-113,-193)
+2023-03-25 17:27:35: [Emerge-0]: [w2mt] Generating (48,-192,-192) to (127,-113,-113)
+2023-03-25 17:27:35: [Emerge-0]: [w2mt] Generating (128,-192,-272) to (207,-113,-193)
+2023-03-25 17:27:35: [Emerge-0]: [w2mt] Generating (128,-192,-192) to (207,-113,-113)
+2023-03-25 17:27:36: [Emerge-0]: [w2mt] Generating (-32,-192,-352) to (47,-113,-273)
+2023-03-25 17:27:36: [Emerge-0]: [w2mt] Generating (48,-192,-352) to (127,-113,-273)
+2023-03-25 17:27:36: [Emerge-0]: [w2mt] Generating (128,-192,-352) to (207,-113,-273)
+2023-03-25 17:27:37: [Emerge-0]: [w2mt] Generating (208,-192,-272) to (287,-113,-193)
+2023-03-25 17:27:37: [Emerge-0]: [w2mt] Generating (208,-192,-192) to (287,-113,-113)
+2023-03-25 17:27:38: ACTION[Server]: Mentor places node travelnet:travelnet at (103,1,-158)
+2023-03-25 17:27:40: [Emerge-0]: [w2mt] Generating (128,-192,-112) to (207,-113,-33)
+2023-03-25 17:27:40: [Emerge-0]: [w2mt] Generating (208,-192,-112) to (287,-113,-33)
+2023-03-25 17:27:49: [Emerge-0]: [w2mt] Generating (128,-192,-32) to (207,-113,47)
+2023-03-25 17:27:50: [Emerge-0]: [w2mt] Generating (-32,-192,48) to (47,-113,127)
+2023-03-25 17:27:51: [Emerge-0]: [w2mt] Generating (48,-192,48) to (127,-113,127)
+2023-03-25 17:27:57: [Emerge-0]: [w2mt] Generating (-32,-192,128) to (47,-113,207)
+2023-03-25 17:28:00: [Emerge-0]: [w2mt] Generating (48,-192,128) to (127,-113,207)
+2023-03-25 17:28:03: [Emerge-0]: [w2mt] Generating (-192,-192,128) to (-113,-113,207)
+2023-03-25 17:28:03: [Emerge-0]: [w2mt] Generating (-112,-192,208) to (-33,-113,287)
+2023-03-25 17:28:03: [Emerge-0]: [w2mt] Generating (-32,-192,208) to (47,-113,287)
+2023-03-25 17:28:04: [Emerge-0]: [w2mt] Generating (-192,-192,208) to (-113,-113,287)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-192,-32,288) to (-113,47,367)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-112,-32,288) to (-33,47,367)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-32,-32,288) to (47,47,367)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-272,-112,208) to (-193,-33,287)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-112,-112,288) to (-33,-33,367)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-32,-112,288) to (47,-33,367)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-272,-32,208) to (-193,47,287)
+2023-03-25 17:28:05: [Emerge-0]: [w2mt] Generating (-192,-112,288) to (-113,-33,367)
+2023-03-25 17:28:06: [Emerge-0]: [w2mt] Generating (-112,-192,288) to (-33,-113,367)
+2023-03-25 17:28:06: [Emerge-0]: [w2mt] Generating (-32,-192,288) to (47,-113,367)
+2023-03-25 17:28:06: [Emerge-0]: [w2mt] Generating (-272,-192,128) to (-193,-113,207)
+2023-03-25 17:28:07: [Emerge-0]: [w2mt] Generating (-192,-192,288) to (-113,-113,367)
+2023-03-25 17:28:07: [Emerge-0]: [w2mt] Generating (-272,48,208) to (-193,127,287)
+2023-03-25 17:28:07: [Emerge-0]: [w2mt] Generating (-272,-192,208) to (-193,-113,287)
+2023-03-25 17:28:08: [Emerge-0]: [w2mt] Generating (-272,-192,48) to (-193,-113,127)
+2023-03-25 17:28:09: [Emerge-0]: [w2mt] Generating (-272,-192,-32) to (-193,-113,47)
+2023-03-25 17:28:10: [Emerge-0]: [w2mt] Generating (-352,-112,48) to (-273,-33,127)
+2023-03-25 17:28:11: [Emerge-0]: [w2mt] Generating (-352,48,-32) to (-273,127,47)
+2023-03-25 17:28:12: [Emerge-0]: [w2mt] Generating (-352,-192,48) to (-273,-113,127)
+2023-03-25 17:28:12: [Emerge-0]: [w2mt] Generating (-272,-192,-112) to (-193,-113,-33)
+2023-03-25 17:28:13: [Emerge-0]: [w2mt] Generating (-352,-192,-32) to (-273,-113,47)
+2023-03-25 17:28:13: [Emerge-0]: [w2mt] Generating (-352,48,-112) to (-273,127,-33)
+2023-03-25 17:28:14: [Emerge-0]: [w2mt] Generating (-352,-192,-112) to (-273,-113,-33)
+2023-03-25 17:28:15: [Emerge-0]: [w2mt] Generating (-432,-32,-112) to (-353,47,-33)
+2023-03-25 17:28:15: [Emerge-0]: [w2mt] Generating (-432,-32,-32) to (-353,47,47)
+2023-03-25 17:28:16: [Emerge-0]: [w2mt] Generating (-352,-32,-192) to (-273,47,-113)
+2023-03-25 17:28:16: [Emerge-0]: [w2mt] Generating (-432,-112,-32) to (-353,-33,47)
+2023-03-25 17:28:16: [Emerge-0]: [w2mt] Generating (-432,-112,48) to (-353,-33,127)
+2023-03-25 17:28:16: [Emerge-0]: [w2mt] Generating (-432,-112,-112) to (-353,-33,-33)
+2023-03-25 17:28:16: [Emerge-0]: [w2mt] Generating (-352,-112,-192) to (-273,-33,-113)
+2023-03-25 17:28:18: [Emerge-0]: [w2mt] Generating (-432,-32,-192) to (-353,47,-113)
+2023-03-25 17:28:18: [Emerge-0]: [w2mt] Generating (-432,-112,-192) to (-353,-33,-113)
+2023-03-25 17:28:19: [Emerge-0]: [w2mt] Generating (-432,-192,-32) to (-353,-113,47)
+2023-03-25 17:28:19: [Emerge-0]: [w2mt] Generating (-432,-192,-112) to (-353,-113,-33)
+2023-03-25 17:28:19: [Emerge-0]: [w2mt] Generating (-352,-192,-192) to (-273,-113,-113)
+2023-03-25 17:28:21: [Emerge-0]: [w2mt] Generating (-432,-192,-192) to (-353,-113,-113)
+2023-03-25 17:28:21: [Emerge-0]: [w2mt] Generating (-512,-32,-192) to (-433,47,-113)
+2023-03-25 17:28:21: [Emerge-0]: [w2mt] Generating (-512,-32,-112) to (-433,47,-33)
+2023-03-25 17:28:21: [Emerge-0]: [w2mt] Generating (-512,-32,-32) to (-433,47,47)
+2023-03-25 17:28:21: [Emerge-0]: [w2mt] Generating (-512,-112,-192) to (-433,-33,-113)
+2023-03-25 17:28:22: [Emerge-0]: [w2mt] Generating (-512,-112,-112) to (-433,-33,-33)
+2023-03-25 17:28:22: [Emerge-0]: [w2mt] Generating (-512,-112,-32) to (-433,-33,47)
+2023-03-25 17:28:22: [Emerge-0]: [w2mt] Generating (-512,-192,-32) to (-433,-113,47)
+2023-03-25 17:28:22: [Emerge-0]: [w2mt] Generating (-512,-192,-112) to (-433,-113,-33)
+2023-03-25 17:28:24: ACTION[Server]: Mentor places node travelnet:travelnet at (-302,1,-28)
+2023-03-25 17:28:26: [Emerge-0]: [w2mt] Generating (-272,-192,-192) to (-193,-113,-113)
+2023-03-25 17:28:26: [Emerge-0]: [w2mt] Generating (-192,-192,-192) to (-113,-113,-113)
+2023-03-25 17:28:29: [Emerge-0]: [w2mt] Generating (-352,128,-112) to (-273,207,-33)
+2023-03-25 17:28:29: [Emerge-0]: [w2mt] Generating (-352,128,-32) to (-273,207,47)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-512,-112,48) to (-433,-33,127)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-432,128,-112) to (-353,207,-33)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-432,128,-192) to (-353,207,-113)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-432,-192,48) to (-353,-113,127)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-432,48,-112) to (-353,127,-33)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-512,128,-192) to (-433,207,-113)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-512,128,-112) to (-433,207,-33)
+2023-03-25 17:28:30: [Emerge-0]: [w2mt] Generating (-432,-112,-272) to (-353,-33,-193)
+2023-03-25 17:28:33: [Emerge-0]: [w2mt] Generating (-432,-32,48) to (-353,47,127)
+2023-03-25 17:28:33: [Emerge-0]: [w2mt] Generating (-512,-32,48) to (-433,47,127)
+2023-03-25 17:28:34: [Emerge-0]: [w2mt] Generating (-272,-112,-272) to (-193,-33,-193)
+2023-03-25 17:28:35: [Emerge-0]: [w2mt] Generating (-352,-112,-272) to (-273,-33,-193)
+2023-03-25 17:28:35: [Emerge-0]: [w2mt] Generating (-512,-32,-272) to (-433,47,-193)
+2023-03-25 17:28:35: [Emerge-0]: [w2mt] Generating (-432,-32,-272) to (-353,47,-193)
+2023-03-25 17:28:35: [Emerge-0]: [w2mt] Generating (-352,-32,-272) to (-273,47,-193)
+2023-03-25 17:28:37: [Emerge-0]: [w2mt] Generating (-272,-32,-272) to (-193,47,-193)
+2023-03-25 17:28:38: [Emerge-0]: [w2mt] Generating (-512,-192,-192) to (-433,-113,-113)
+2023-03-25 17:28:39: [Emerge-0]: [w2mt] Generating (-432,-192,-272) to (-353,-113,-193)
+2023-03-25 17:28:39: [Emerge-0]: [w2mt] Generating (-352,-192,-272) to (-273,-113,-193)
+2023-03-25 17:28:40: [Emerge-0]: [w2mt] Generating (-432,48,-32) to (-353,127,47)
+2023-03-25 17:28:45: [Emerge-0]: [w2mt] Generating (-512,-112,-272) to (-433,-33,-193)
+2023-03-25 17:28:49: [Emerge-0]: [w2mt] Generating (-512,128,48) to (-433,207,127)
+2023-03-25 17:28:51: [Emerge-0]: [w2mt] Generating (-272,-192,-272) to (-193,-113,-193)
+2023-03-25 17:28:52: ACTION[Server]: Mentor places node travelnet:travelnet at (-332,1,-68)
+2023-03-25 17:29:02: [Emerge-0]: [w2mt] Generating (-272,48,-272) to (-193,127,-193)
+2023-03-25 17:29:02: [Emerge-0]: [w2mt] Generating (-352,48,-192) to (-273,127,-113)
+2023-03-25 17:29:05: [Emerge-0]: [w2mt] Generating (-272,-32,-352) to (-193,47,-273)
+2023-03-25 17:29:05: [Emerge-0]: [w2mt] Generating (-352,-32,-352) to (-273,47,-273)
+2023-03-25 17:29:05: [Emerge-0]: [w2mt] Generating (-352,-112,-352) to (-273,-33,-273)
+2023-03-25 17:29:05: [Emerge-0]: [w2mt] Generating (-272,-112,-352) to (-193,-33,-273)
+2023-03-25 17:29:06: [Emerge-0]: [w2mt] Generating (-352,48,-272) to (-273,127,-193)
+2023-03-25 17:29:06: [Emerge-0]: [w2mt] Generating (-432,-32,-352) to (-353,47,-273)
+2023-03-25 17:29:06: [Emerge-0]: [w2mt] Generating (-432,-112,-352) to (-353,-33,-273)
+2023-03-25 17:29:06: [Emerge-0]: [w2mt] Generating (-192,-192,-272) to (-113,-113,-193)
+2023-03-25 17:29:06: [Emerge-0]: [w2mt] Generating (-192,-32,-352) to (-113,47,-273)
+2023-03-25 17:29:07: [Emerge-0]: [w2mt] Generating (-192,-112,-352) to (-113,-33,-273)
+2023-03-25 17:29:10: [Emerge-0]: [w2mt] Generating (-272,48,48) to (-193,127,127)
+2023-03-25 17:29:13: [Emerge-0]: [w2mt] Generating (-112,-192,-272) to (-33,-113,-193)
+2023-03-25 17:29:14: [Emerge-0]: [w2mt] Generating (-192,48,-352) to (-113,127,-273)
+2023-03-25 17:29:15: [Emerge-0]: [w2mt] Generating (-272,-192,-352) to (-193,-113,-273)
+2023-03-25 17:29:15: [Emerge-0]: [w2mt] Generating (-192,-192,-352) to (-113,-113,-273)
+2023-03-25 17:29:16: [Emerge-0]: [w2mt] Generating (-272,48,-352) to (-193,127,-273)
+2023-03-25 17:29:17: [Emerge-0]: [w2mt] Generating (-112,-32,-432) to (-33,47,-353)
+2023-03-25 17:29:17: [Emerge-0]: [w2mt] Generating (-272,-32,-432) to (-193,47,-353)
+2023-03-25 17:29:17: [Emerge-0]: [w2mt] Generating (-192,-32,-432) to (-113,47,-353)
+2023-03-25 17:29:17: [Emerge-0]: [w2mt] Generating (-112,48,-432) to (-33,127,-353)
+2023-03-25 17:29:17: [Emerge-0]: [w2mt] Generating (-272,-112,-432) to (-193,-33,-353)
+2023-03-25 17:29:18: [Emerge-0]: [w2mt] Generating (-192,-112,-432) to (-113,-33,-353)
+2023-03-25 17:29:18: [Emerge-0]: [w2mt] Generating (-112,-112,-432) to (-33,-33,-353)
+2023-03-25 17:29:18: [Emerge-0]: [w2mt] Generating (-272,48,-432) to (-193,127,-353)
+2023-03-25 17:29:18: [Emerge-0]: [w2mt] Generating (-192,48,-432) to (-113,127,-353)
+2023-03-25 17:29:20: [Emerge-0]: [w2mt] Generating (-192,-192,-432) to (-113,-113,-353)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-272,-32,-512) to (-193,47,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-192,-32,-512) to (-113,47,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-112,-32,-512) to (-33,47,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-272,-112,-512) to (-193,-33,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-192,-112,-512) to (-113,-33,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-112,-112,-512) to (-33,-33,-433)
+2023-03-25 17:29:22: [Emerge-0]: [w2mt] Generating (-112,48,-512) to (-33,127,-433)
+2023-03-25 17:29:23: [Emerge-0]: [w2mt] Generating (-192,48,-512) to (-113,127,-433)
+2023-03-25 17:29:23: [Emerge-0]: [w2mt] Generating (-112,-192,-432) to (-33,-113,-353)
+2023-03-25 17:29:23: [Emerge-0]: [w2mt] Generating (-32,-32,-512) to (47,47,-433)
+2023-03-25 17:29:25: [Emerge-0]: [w2mt] Generating (-32,-112,-512) to (47,-33,-433)
+2023-03-25 17:29:25: [Emerge-0]: [w2mt] Generating (-192,-192,-512) to (-113,-113,-433)
+2023-03-25 17:29:25: [Emerge-0]: [w2mt] Generating (-112,-192,-512) to (-33,-113,-433)
+2023-03-25 17:29:25: [Emerge-0]: [w2mt] Generating (-32,-192,-432) to (47,-113,-353)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-192,-32,-592) to (-113,47,-513)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-112,-32,-592) to (-33,47,-513)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-192,-112,-592) to (-113,-33,-513)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-112,-112,-592) to (-33,-33,-513)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-32,-32,-592) to (47,47,-513)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-32,-192,-512) to (47,-113,-433)
+2023-03-25 17:29:26: [Emerge-0]: [w2mt] Generating (-32,-112,-592) to (47,-33,-513)
+2023-03-25 17:29:27: [Emerge-0]: [w2mt] Generating (48,-32,-512) to (127,47,-433)
+2023-03-25 17:29:27: [Emerge-0]: [w2mt] Generating (48,-112,-512) to (127,-33,-433)
+2023-03-25 17:29:28: [Emerge-0]: [w2mt] Generating (-32,48,-592) to (47,127,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (48,-32,-592) to (127,47,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (48,-112,-592) to (127,-33,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-192,-192,-592) to (-113,-113,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-112,-192,-592) to (-33,-113,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-32,-192,-592) to (47,-113,-513)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-192,-32,-672) to (-113,47,-593)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-112,-32,-672) to (-33,47,-593)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-32,-32,-672) to (47,47,-593)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-192,-112,-672) to (-113,-33,-593)
+2023-03-25 17:29:30: [Emerge-0]: [w2mt] Generating (-112,-112,-672) to (-33,-33,-593)
+2023-03-25 17:29:31: [Emerge-0]: [w2mt] Generating (-32,-112,-672) to (47,-33,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (48,-32,-672) to (127,47,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (48,-112,-672) to (127,-33,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (-112,-192,-672) to (-33,-113,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (-32,-192,-672) to (47,-113,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (-192,-192,-672) to (-113,-113,-593)
+2023-03-25 17:29:33: [Emerge-0]: [w2mt] Generating (-192,128,-352) to (-113,207,-273)
+2023-03-25 17:29:35: [Emerge-0]: [w2mt] Generating (48,-192,-672) to (127,-113,-593)
+2023-03-25 17:29:35: [Emerge-0]: [w2mt] Generating (48,-192,-592) to (127,-113,-513)
+2023-03-25 17:29:35: [Emerge-0]: [w2mt] Generating (-112,-32,-752) to (-33,47,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-32,-32,-752) to (47,47,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-192,-32,-752) to (-113,47,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-192,-112,-752) to (-113,-33,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-112,-112,-752) to (-33,-33,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-32,-112,-752) to (47,-33,-673)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-112,128,-592) to (-33,207,-513)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-272,-112,-672) to (-193,-33,-593)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-272,-192,-672) to (-193,-113,-593)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (48,-192,-512) to (127,-113,-433)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-272,-192,-592) to (-193,-113,-513)
+2023-03-25 17:29:36: [Emerge-0]: [w2mt] Generating (-272,-112,-592) to (-193,-33,-513)
+2023-03-25 17:29:36: ACTION[Server]: Mentor places node travelnet:travelnet at (-70,1,-522)
+2023-03-25 17:29:38: [Emerge-0]: [w2mt] Generating (48,-32,-752) to (127,47,-673)
+2023-03-25 17:29:38: [Emerge-0]: [w2mt] Generating (-112,-192,-752) to (-33,-113,-673)
+2023-03-25 17:29:41: [Emerge-0]: [w2mt] Generating (-112,48,-592) to (-33,127,-513)
+2023-03-25 17:29:41: [Emerge-0]: [w2mt] Generating (-112,48,-672) to (-33,127,-593)
+2023-03-25 17:29:41: [Emerge-0]: [w2mt] Generating (-32,48,-672) to (47,127,-593)
+2023-03-25 17:29:41: [Emerge-0]: [w2mt] Generating (-32,128,-672) to (47,207,-593)
+2023-03-25 17:29:41: [Emerge-0]: [w2mt] Generating (48,-112,-752) to (127,-33,-673)
+2023-03-25 17:29:43: [Emerge-0]: [w2mt] Generating (48,48,-752) to (127,127,-673)
+2023-03-25 17:29:43: [Emerge-0]: [w2mt] Generating (-32,48,-752) to (47,127,-673)
+2023-03-25 17:29:43: [Emerge-0]: [w2mt] Generating (-32,-192,-752) to (47,-113,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-192,48,-752) to (-113,127,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-272,-32,-752) to (-193,47,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-272,-32,-672) to (-193,47,-593)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-192,-32,-832) to (-113,47,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-112,-32,-832) to (-33,47,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-272,-112,-752) to (-193,-33,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-192,-112,-832) to (-113,-33,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-112,-112,-832) to (-33,-33,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-192,-192,-752) to (-113,-113,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-272,48,-752) to (-193,127,-673)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-192,48,-832) to (-113,127,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (-112,48,-832) to (-33,127,-753)
+2023-03-25 17:29:46: [Emerge-0]: [w2mt] Generating (48,-32,-832) to (127,47,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (-32,-32,-832) to (47,47,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (-32,-112,-832) to (47,-33,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (48,-112,-832) to (127,-33,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (48,48,-832) to (127,127,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (48,-192,-752) to (127,-113,-673)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (128,-32,-752) to (207,47,-673)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (128,-32,-672) to (207,47,-593)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (128,-112,-752) to (207,-33,-673)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (128,-112,-672) to (207,-33,-593)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (-32,-192,-832) to (47,-113,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (-32,48,-832) to (47,127,-753)
+2023-03-25 17:29:47: [Emerge-0]: [w2mt] Generating (128,-32,-832) to (207,47,-753)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (128,-112,-832) to (207,-33,-753)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (48,-192,-832) to (127,-113,-753)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (-112,-32,-912) to (-33,47,-833)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (-32,-32,-912) to (47,47,-833)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (48,-32,-912) to (127,47,-833)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (-112,-112,-912) to (-33,-33,-833)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (-32,-112,-912) to (47,-33,-833)
+2023-03-25 17:29:49: [Emerge-0]: [w2mt] Generating (48,-112,-912) to (127,-33,-833)
+2023-03-25 17:29:50: [Emerge-0]: [w2mt] Generating (-32,48,-912) to (47,127,-833)
+2023-03-25 17:29:50: [Emerge-0]: [w2mt] Generating (48,48,-912) to (127,127,-833)
+2023-03-25 17:29:50: [Emerge-0]: [w2mt] Generating (128,-32,-912) to (207,47,-833)
+2023-03-25 17:29:51: [Emerge-0]: [w2mt] Generating (-112,-192,-832) to (-33,-113,-753)
+2023-03-25 17:29:51: [Emerge-0]: [w2mt] Generating (128,-112,-912) to (207,-33,-833)
+2023-03-25 17:29:52: [Emerge-0]: [w2mt] Generating (-32,-192,-912) to (47,-113,-833)
+2023-03-25 17:29:52: [Emerge-0]: [w2mt] Generating (48,-192,-912) to (127,-113,-833)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (-112,-32,-992) to (-33,47,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (-32,-32,-992) to (47,47,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (48,-32,-992) to (127,47,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (-112,-112,-992) to (-33,-33,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (-32,-112,-992) to (47,-33,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (48,-112,-992) to (127,-33,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (128,-32,-992) to (207,47,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (-32,48,-992) to (47,127,-913)
+2023-03-25 17:29:54: [Emerge-0]: [w2mt] Generating (48,48,-992) to (127,127,-913)
+2023-03-25 17:29:56: [Emerge-0]: [w2mt] Generating (128,-112,-992) to (207,-33,-913)
+2023-03-25 17:29:56: [Emerge-0]: [w2mt] Generating (-32,-192,-992) to (47,-113,-913)
+2023-03-25 17:29:56: [Emerge-0]: [w2mt] Generating (48,-192,-992) to (127,-113,-913)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (-112,-32,-1072) to (-33,47,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (-32,-32,-1072) to (47,47,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (48,-32,-1072) to (127,47,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (-112,-112,-1072) to (-33,-33,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (-32,-112,-1072) to (47,-33,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (48,-112,-1072) to (127,-33,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (128,-32,-1072) to (207,47,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (128,-112,-1072) to (207,-33,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (-32,48,-1072) to (47,127,-993)
+2023-03-25 17:29:58: [Emerge-0]: [w2mt] Generating (48,48,-1072) to (127,127,-993)
+2023-03-25 17:29:59: [Emerge-0]: [w2mt] Generating (-32,-192,-1072) to (47,-113,-993)
+2023-03-25 17:29:59: [Emerge-0]: [w2mt] Generating (48,-192,-1072) to (127,-113,-993)
+2023-03-25 17:30:00: [Emerge-0]: [w2mt] Generating (128,48,-1072) to (207,127,-993)
+2023-03-25 17:30:01: [Emerge-0]: [w2mt] Generating (-112,-192,-1072) to (-33,-113,-993)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-112,-192,-992) to (-33,-113,-913)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-192,-32,-1072) to (-113,47,-993)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-192,-112,-1072) to (-113,-33,-993)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-112,-32,-1152) to (-33,47,-1073)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-32,-32,-1152) to (47,47,-1073)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (48,-32,-1152) to (127,47,-1073)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-112,-112,-1152) to (-33,-33,-1073)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (-32,-112,-1152) to (47,-33,-1073)
+2023-03-25 17:30:02: [Emerge-0]: [w2mt] Generating (48,-112,-1152) to (127,-33,-1073)
+2023-03-25 17:30:03: [Emerge-0]: [w2mt] Generating (128,-32,-1152) to (207,47,-1073)
+2023-03-25 17:30:03: [Emerge-0]: [w2mt] Generating (128,-112,-1152) to (207,-33,-1073)
+2023-03-25 17:30:03: [Emerge-0]: [w2mt] Generating (128,-192,-1072) to (207,-113,-993)
+2023-03-25 17:30:03: [Emerge-0]: [w2mt] Generating (-192,-32,-992) to (-113,47,-913)
+2023-03-25 17:30:03: [Emerge-0]: [w2mt] Generating (-192,-112,-992) to (-113,-33,-913)
+2023-03-25 17:30:04: [Emerge-0]: [w2mt] Generating (-192,-32,-1152) to (-113,47,-1073)
+2023-03-25 17:30:04: [Emerge-0]: [w2mt] Generating (-192,-192,-992) to (-113,-113,-913)
+2023-03-25 17:30:04: [Emerge-0]: [w2mt] Generating (-32,-192,-1152) to (47,-113,-1073)
+2023-03-25 17:30:04: [Emerge-0]: [w2mt] Generating (48,-192,-1152) to (127,-113,-1073)
+2023-03-25 17:30:05: [Emerge-0]: [w2mt] Generating (128,-192,-992) to (207,-113,-913)
+2023-03-25 17:30:05: [Emerge-0]: [w2mt] Generating (-112,-192,-1152) to (-33,-113,-1073)
+2023-03-25 17:30:05: [Emerge-0]: [w2mt] Generating (-192,-112,-1152) to (-113,-33,-1073)
+2023-03-25 17:30:05: [Emerge-0]: [w2mt] Generating (-32,128,-992) to (47,207,-913)
+2023-03-25 17:30:06: [Emerge-0]: [w2mt] Generating (-192,-192,-1072) to (-113,-113,-993)
+2023-03-25 17:30:07: [Emerge-0]: [w2mt] Generating (128,-192,-912) to (207,-113,-833)
+2023-03-25 17:30:08: ACTION[Server]: Mentor places node travelnet:travelnet at (8,1,-956)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (-112,-32,-1232) to (-33,47,-1153)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (-32,-32,-1232) to (47,47,-1153)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (48,-32,-1232) to (127,47,-1153)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (-112,-112,-1232) to (-33,-33,-1153)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (-32,-112,-1232) to (47,-33,-1153)
+2023-03-25 17:30:15: [Emerge-0]: [w2mt] Generating (48,-112,-1232) to (127,-33,-1153)
+2023-03-25 17:30:17: [Emerge-0]: [w2mt] Generating (128,-32,-1232) to (207,47,-1153)
+2023-03-25 17:30:17: [Emerge-0]: [w2mt] Generating (128,-112,-1232) to (207,-33,-1153)
+2023-03-25 17:30:17: [Emerge-0]: [w2mt] Generating (-32,-192,-1232) to (47,-113,-1153)
+2023-03-25 17:30:18: [Emerge-0]: [w2mt] Generating (48,-192,-1232) to (127,-113,-1153)
+2023-03-25 17:30:18: [Emerge-0]: [w2mt] Generating (128,-192,-1152) to (207,-113,-1073)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (-32,-32,-1312) to (47,47,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (48,-32,-1312) to (127,47,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (128,-32,-1312) to (207,47,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (-32,-112,-1312) to (47,-33,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (48,-112,-1312) to (127,-33,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (128,-112,-1312) to (207,-33,-1233)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (128,-192,-1232) to (207,-113,-1153)
+2023-03-25 17:30:20: [Emerge-0]: [w2mt] Generating (48,48,-1312) to (127,127,-1233)
+2023-03-25 17:30:21: [Emerge-0]: [w2mt] Generating (128,48,-1312) to (207,127,-1233)
+2023-03-25 17:30:21: [Emerge-0]: [w2mt] Generating (-32,48,-1152) to (47,127,-1073)
+2023-03-25 17:30:21: [Emerge-0]: [w2mt] Generating (-32,-192,-1312) to (47,-113,-1233)
+2023-03-25 17:30:21: [Emerge-0]: [w2mt] Generating (48,-192,-1312) to (127,-113,-1233)
+2023-03-25 17:30:23: ACTION[Server]: Mentor places node travelnet:travelnet at (64,1,-1137)
+2023-03-25 17:30:25: [Emerge-0]: [w2mt] Generating (-112,-112,-1312) to (-33,-33,-1233)
+2023-03-25 17:30:25: [Emerge-0]: [w2mt] Generating (-112,-192,-1312) to (-33,-113,-1233)
+2023-03-25 17:30:25: [Emerge-0]: [w2mt] Generating (128,-192,-1312) to (207,-113,-1233)
+2023-03-25 17:30:25: [Emerge-0]: [w2mt] Generating (208,-32,-1312) to (287,47,-1233)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-32,-1232) to (287,47,-1153)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-112,-1312) to (287,-33,-1233)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-112,-1232) to (287,-33,-1153)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-112,-1152) to (287,-33,-1073)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-192,-1232) to (287,-113,-1153)
+2023-03-25 17:30:26: [Emerge-0]: [w2mt] Generating (208,-192,-1152) to (287,-113,-1073)
+2023-03-25 17:30:28: [Emerge-0]: [w2mt] Generating (48,48,-1232) to (127,127,-1153)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (48,128,-1312) to (127,207,-1233)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (128,128,-1312) to (207,207,-1233)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (-32,-32,-1392) to (47,47,-1313)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (48,-32,-1392) to (127,47,-1313)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (128,-32,-1392) to (207,47,-1313)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (-32,-112,-1392) to (47,-33,-1313)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (48,-112,-1392) to (127,-33,-1313)
+2023-03-25 17:30:29: [Emerge-0]: [w2mt] Generating (128,-112,-1392) to (207,-33,-1313)
+2023-03-25 17:30:30: [Emerge-0]: [w2mt] Generating (208,-32,-1392) to (287,47,-1313)
+2023-03-25 17:30:31: [Emerge-0]: [w2mt] Generating (48,-192,-1392) to (127,-113,-1313)
+2023-03-25 17:30:31: [Emerge-0]: [w2mt] Generating (208,-112,-1392) to (287,-33,-1313)
+2023-03-25 17:30:31: [Emerge-0]: [w2mt] Generating (208,-192,-1312) to (287,-113,-1233)
+2023-03-25 17:30:32: [Emerge-0]: [w2mt] Generating (208,48,-1312) to (287,127,-1233)
+2023-03-25 17:30:33: [Emerge-0]: [w2mt] Generating (128,-192,-1392) to (207,-113,-1313)
+2023-03-25 17:30:33: [Emerge-0]: [w2mt] Generating (288,-32,-1312) to (367,47,-1233)
+2023-03-25 17:30:33: [Emerge-0]: [w2mt] Generating (288,-32,-1232) to (367,47,-1153)
+2023-03-25 17:30:33: [Emerge-0]: [w2mt] Generating (288,-112,-1312) to (367,-33,-1233)
+2023-03-25 17:30:33: [Emerge-0]: [w2mt] Generating (288,-112,-1232) to (367,-33,-1153)
+2023-03-25 17:30:34: [Emerge-0]: [w2mt] Generating (288,-32,-1392) to (367,47,-1313)
+2023-03-25 17:30:34: [Emerge-0]: [w2mt] Generating (208,-192,-1392) to (287,-113,-1313)
+2023-03-25 17:30:34: [Emerge-0]: [w2mt] Generating (288,48,-1312) to (367,127,-1233)
+2023-03-25 17:30:34: [Emerge-0]: [w2mt] Generating (288,48,-1392) to (367,127,-1313)
+2023-03-25 17:30:34: [Emerge-0]: [w2mt] Generating (288,-112,-1392) to (367,-33,-1313)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (208,48,-1392) to (287,127,-1313)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (48,-32,-1472) to (127,47,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (128,-32,-1472) to (207,47,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (208,-32,-1472) to (287,47,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (128,48,-1472) to (207,127,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (208,48,-1472) to (287,127,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (48,-112,-1472) to (127,-33,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (128,-112,-1472) to (207,-33,-1393)
+2023-03-25 17:30:36: [Emerge-0]: [w2mt] Generating (208,-112,-1472) to (287,-33,-1393)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (-32,-32,-1472) to (47,47,-1393)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (48,48,-1472) to (127,127,-1393)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (-32,-112,-1472) to (47,-33,-1393)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (48,48,-1392) to (127,127,-1313)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (128,-192,-1472) to (207,-113,-1393)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (-32,-192,-1392) to (47,-113,-1313)
+2023-03-25 17:30:37: [Emerge-0]: [w2mt] Generating (48,-192,-1472) to (127,-113,-1393)
+2023-03-25 17:30:39: [Emerge-0]: [w2mt] Generating (-32,-32,-1552) to (47,47,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (48,-32,-1552) to (127,47,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (128,-32,-1552) to (207,47,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (208,-32,-1552) to (287,47,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (48,-112,-1552) to (127,-33,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (128,-112,-1552) to (207,-33,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (208,-112,-1552) to (287,-33,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (128,48,-1392) to (207,127,-1313)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (-32,-112,-1552) to (47,-33,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (48,48,-1552) to (127,127,-1473)
+2023-03-25 17:30:40: [Emerge-0]: [w2mt] Generating (128,48,-1552) to (207,127,-1473)
+2023-03-25 17:30:42: [Emerge-0]: [w2mt] Generating (48,-192,-1552) to (127,-113,-1473)
+2023-03-25 17:30:42: [Emerge-0]: [w2mt] Generating (128,-192,-1552) to (207,-113,-1473)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (208,-192,-1552) to (287,-113,-1473)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (208,-192,-1472) to (287,-113,-1393)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-32,-1552) to (367,47,-1473)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-32,-1472) to (367,47,-1393)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-112,-1552) to (367,-33,-1473)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-112,-1472) to (367,-33,-1393)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (128,128,-1392) to (207,207,-1313)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-192,-1472) to (367,-113,-1393)
+2023-03-25 17:30:44: [Emerge-0]: [w2mt] Generating (288,-192,-1392) to (367,-113,-1313)
+2023-03-25 17:30:47: ACTION[Server]: Mentor places node travelnet:travelnet at (152,1,-1379)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-32,-192,-1472) to (47,-113,-1393)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-32,-192,-1552) to (47,-113,-1473)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-32,-1552) to (-33,47,-1473)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-32,-1472) to (-33,47,-1393)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-32,-1392) to (-33,47,-1313)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-112,-1472) to (-33,-33,-1393)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-112,-1392) to (-33,-33,-1313)
+2023-03-25 17:30:56: [Emerge-0]: [w2mt] Generating (-112,-112,-1552) to (-33,-33,-1473)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,-32,-1632) to (-33,47,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-32,-32,-1632) to (47,47,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (48,-32,-1632) to (127,47,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-32,-112,-1632) to (47,-33,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (48,-112,-1632) to (127,-33,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,-192,-1472) to (-33,-113,-1393)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,-192,-1552) to (-33,-113,-1473)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,-112,-1632) to (-33,-33,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,-192,-1392) to (-33,-113,-1313)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,48,-1552) to (-33,127,-1473)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-32,48,-1552) to (47,127,-1473)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-112,48,-1632) to (-33,127,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (-32,48,-1632) to (47,127,-1553)
+2023-03-25 17:30:59: [Emerge-0]: [w2mt] Generating (128,-112,-1632) to (207,-33,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (-112,48,-1472) to (-33,127,-1393)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (128,-32,-1632) to (207,47,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (48,-192,-1632) to (127,-113,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (208,-32,-1632) to (287,47,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (-32,-192,-1632) to (47,-113,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (208,-112,-1632) to (287,-33,-1553)
+2023-03-25 17:31:00: [Emerge-0]: [w2mt] Generating (128,-192,-1632) to (207,-113,-1553)
+2023-03-25 17:31:04: [Emerge-0]: [w2mt] Generating (-32,48,-1472) to (47,127,-1393)
+2023-03-25 17:31:04: [Emerge-0]: [w2mt] Generating (-32,48,-1392) to (47,127,-1313)
+2023-03-25 17:31:04: [Emerge-0]: [w2mt] Generating (-112,48,-1392) to (-33,127,-1313)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-112,-32,-1312) to (-33,47,-1233)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-192,-32,-1392) to (-113,47,-1313)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-192,-112,-1392) to (-113,-33,-1313)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-192,-112,-1472) to (-113,-33,-1393)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-32,48,-1312) to (47,127,-1233)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-112,48,-1312) to (-33,127,-1233)
+2023-03-25 17:31:05: [Emerge-0]: [w2mt] Generating (-192,-32,-1472) to (-113,47,-1393)
+2023-03-25 17:31:06: [Emerge-0]: [w2mt] Generating (-192,-32,-1552) to (-113,47,-1473)
+2023-03-25 17:31:06: [Emerge-0]: [w2mt] Generating (48,48,-1632) to (127,127,-1553)
+2023-03-25 17:31:06: [Emerge-0]: [w2mt] Generating (-192,-112,-1552) to (-113,-33,-1473)
+2023-03-25 17:31:07: [Emerge-0]: [w2mt] Generating (-192,-32,-1632) to (-113,47,-1553)
+2023-03-25 17:31:07: [Emerge-0]: [w2mt] Generating (128,48,-1632) to (207,127,-1553)
+2023-03-25 17:31:07: [Emerge-0]: [w2mt] Generating (208,48,-1552) to (287,127,-1473)
+2023-03-25 17:31:15: [Emerge-0]: [w2mt] Generating (288,-192,-1552) to (367,-113,-1473)
+2023-03-25 17:31:16: [Emerge-0]: [w2mt] Generating (288,-192,-1312) to (367,-113,-1233)
+2023-03-25 17:31:16: [Emerge-0]: [w2mt] Generating (368,-32,-1392) to (447,47,-1313)
+2023-03-25 17:31:16: [Emerge-0]: [w2mt] Generating (368,-32,-1312) to (447,47,-1233)
+2023-03-25 17:31:16: [Emerge-0]: [w2mt] Generating (368,-32,-1472) to (447,47,-1393)
+2023-03-25 17:31:16: [Emerge-0]: [w2mt] Generating (368,-112,-1552) to (447,-33,-1473)
+2023-03-25 17:31:17: [Emerge-0]: [w2mt] Generating (368,-112,-1472) to (447,-33,-1393)
+2023-03-25 17:31:17: [Emerge-0]: [w2mt] Generating (368,-112,-1392) to (447,-33,-1313)
+2023-03-25 17:31:17: [Emerge-0]: [w2mt] Generating (368,-32,-1552) to (447,47,-1473)
+2023-03-25 17:31:17: [Emerge-0]: [w2mt] Generating (368,-112,-1312) to (447,-33,-1233)
+2023-03-25 17:31:18: [Emerge-0]: [w2mt] Generating (288,-32,-1632) to (367,47,-1553)
+2023-03-25 17:31:18: [Emerge-0]: [w2mt] Generating (288,-112,-1632) to (367,-33,-1553)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (368,-32,-1632) to (447,47,-1553)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (208,-192,-1632) to (287,-113,-1553)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (368,-192,-1472) to (447,-113,-1393)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (368,-112,-1632) to (447,-33,-1553)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (288,-192,-1632) to (367,-113,-1553)
+2023-03-25 17:31:19: [Emerge-0]: [w2mt] Generating (368,-192,-1552) to (447,-113,-1473)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-32,-1552) to (527,47,-1473)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-32,-1472) to (527,47,-1393)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-112,-1552) to (527,-33,-1473)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-112,-1472) to (527,-33,-1393)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-32,-1632) to (527,47,-1553)
+2023-03-25 17:31:21: [Emerge-0]: [w2mt] Generating (448,-112,-1392) to (527,-33,-1313)
+2023-03-25 17:31:22: [Emerge-0]: [w2mt] Generating (448,-32,-1392) to (527,47,-1313)
+2023-03-25 17:31:22: [Emerge-0]: [w2mt] Generating (368,-192,-1632) to (447,-113,-1553)
+2023-03-25 17:31:22: [Emerge-0]: [w2mt] Generating (368,-192,-1392) to (447,-113,-1313)
+2023-03-25 17:31:22: [Emerge-0]: [w2mt] Generating (448,-112,-1632) to (527,-33,-1553)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (448,-192,-1552) to (527,-113,-1473)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (288,-32,-1712) to (367,47,-1633)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (368,-32,-1712) to (447,47,-1633)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (288,-112,-1712) to (367,-33,-1633)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (368,-112,-1712) to (447,-33,-1633)
+2023-03-25 17:31:24: [Emerge-0]: [w2mt] Generating (448,-32,-1712) to (527,47,-1633)
+2023-03-25 17:31:26: [Emerge-0]: [w2mt] Generating (448,-112,-1712) to (527,-33,-1633)
+2023-03-25 17:31:26: [Emerge-0]: [w2mt] Generating (288,-192,-1712) to (367,-113,-1633)
+2023-03-25 17:31:26: [Emerge-0]: [w2mt] Generating (448,-192,-1632) to (527,-113,-1553)
+2023-03-25 17:31:26: [Emerge-0]: [w2mt] Generating (368,-192,-1712) to (447,-113,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (448,-192,-1712) to (527,-113,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (288,-32,-1792) to (367,47,-1713)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (368,-32,-1792) to (447,47,-1713)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (448,-32,-1792) to (527,47,-1713)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (288,-112,-1792) to (367,-33,-1713)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (368,-112,-1792) to (447,-33,-1713)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (208,-112,-1712) to (287,-33,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (528,-32,-1712) to (607,47,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (528,-32,-1632) to (607,47,-1553)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (528,-112,-1632) to (607,-33,-1553)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (208,-32,-1712) to (287,47,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (288,48,-1712) to (367,127,-1633)
+2023-03-25 17:31:28: [Emerge-0]: [w2mt] Generating (368,48,-1712) to (447,127,-1633)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (448,48,-1712) to (527,127,-1633)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (208,-192,-1712) to (287,-113,-1633)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (208,-32,-1792) to (287,47,-1713)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (288,48,-1792) to (367,127,-1713)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (368,48,-1792) to (447,127,-1713)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (448,48,-1792) to (527,127,-1713)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (368,48,-1632) to (447,127,-1553)
+2023-03-25 17:31:29: [Emerge-0]: [w2mt] Generating (288,48,-1632) to (367,127,-1553)
+2023-03-25 17:31:48: [Emerge-0]: [w2mt] Generating (208,-112,-1792) to (287,-33,-1713)
+2023-03-25 17:31:49: [Emerge-0]: [w2mt] Generating (448,-112,-1792) to (527,-33,-1713)
+2023-03-25 17:31:51: [Emerge-0]: [w2mt] Generating (288,-192,-1792) to (367,-113,-1713)
+2023-03-25 17:31:51: [Emerge-0]: [w2mt] Generating (368,-192,-1792) to (447,-113,-1713)
+2023-03-25 17:31:51: [Emerge-0]: [w2mt] Generating (528,-112,-1712) to (607,-33,-1633)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (528,-32,-1792) to (607,47,-1713)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (528,-112,-1792) to (607,-33,-1713)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (448,-192,-1792) to (527,-113,-1713)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (288,-32,-1872) to (367,47,-1793)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (368,-32,-1872) to (447,47,-1793)
+2023-03-25 17:31:53: [Emerge-0]: [w2mt] Generating (448,-32,-1872) to (527,47,-1793)
+2023-03-25 17:31:54: [Emerge-0]: [w2mt] Generating (288,-112,-1872) to (367,-33,-1793)
+2023-03-25 17:31:54: [Emerge-0]: [w2mt] Generating (368,-112,-1872) to (447,-33,-1793)
+2023-03-25 17:31:54: [Emerge-0]: [w2mt] Generating (448,-112,-1872) to (527,-33,-1793)
+2023-03-25 17:31:56: [Emerge-0]: [w2mt] Generating (208,-192,-1792) to (287,-113,-1713)
+2023-03-25 17:31:56: [Emerge-0]: [w2mt] Generating (208,-32,-1872) to (287,47,-1793)
+2023-03-25 17:31:56: [Emerge-0]: [w2mt] Generating (208,48,-1792) to (287,127,-1713)
+2023-03-25 17:31:56: [Emerge-0]: [w2mt] Generating (208,48,-1712) to (287,127,-1633)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,-192,-1712) to (607,-113,-1633)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,-192,-1632) to (607,-113,-1553)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (448,48,-1872) to (527,127,-1793)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,48,-1792) to (607,127,-1713)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,48,-1712) to (607,127,-1633)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,-32,-1552) to (607,47,-1473)
+2023-03-25 17:31:58: [Emerge-0]: [w2mt] Generating (528,-112,-1552) to (607,-33,-1473)
+2023-03-25 17:32:03: [Emerge-0]: [w2mt] Generating (208,-112,-1872) to (287,-33,-1793)
+2023-03-25 17:32:03: [Emerge-0]: [w2mt] Generating (368,-192,-1872) to (447,-113,-1793)
+2023-03-25 17:32:03: [Emerge-0]: [w2mt] Generating (528,-32,-1872) to (607,47,-1793)
+2023-03-25 17:32:05: [Emerge-0]: [w2mt] Generating (528,-112,-1872) to (607,-33,-1793)
+2023-03-25 17:32:05: [Emerge-0]: [w2mt] Generating (288,-192,-1872) to (367,-113,-1793)
+2023-03-25 17:32:05: [Emerge-0]: [w2mt] Generating (448,-192,-1872) to (527,-113,-1793)
+2023-03-25 17:32:05: [Emerge-0]: [w2mt] Generating (528,-192,-1792) to (607,-113,-1713)
+2023-03-25 17:32:05: [Emerge-0]: [w2mt] Generating (368,128,-1712) to (447,207,-1633)
+2023-03-25 17:32:06: [Emerge-0]: [w2mt] Generating (448,48,-1632) to (527,127,-1553)
+2023-03-25 17:32:06: [Emerge-0]: [w2mt] Generating (528,48,-1632) to (607,127,-1553)
+2023-03-25 17:32:26: ACTION[Server]: Mentor places node travelnet:travelnet at (392,1,-1638)
+2023-03-25 17:32:35: [Emerge-0]: [w2mt] Generating (368,128,-1632) to (447,207,-1553)
+2023-03-25 17:32:37: [Emerge-0]: [w2mt] Generating (368,48,-1872) to (447,127,-1793)
+2023-03-25 17:32:37: [Emerge-0]: [w2mt] Generating (528,48,-1872) to (607,127,-1793)
+2023-03-25 17:32:38: [Emerge-0]: [w2mt] Generating (288,48,-1872) to (367,127,-1793)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (288,-32,-1952) to (367,47,-1873)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (368,-32,-1952) to (447,47,-1873)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (448,-32,-1952) to (527,47,-1873)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (288,-112,-1952) to (367,-33,-1873)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (368,-112,-1952) to (447,-33,-1873)
+2023-03-25 17:32:40: [Emerge-0]: [w2mt] Generating (448,-112,-1952) to (527,-33,-1873)
+2023-03-25 17:32:41: [Emerge-0]: [w2mt] Generating (448,48,-1952) to (527,127,-1873)
+2023-03-25 17:32:41: [Emerge-0]: [w2mt] Generating (288,48,-1952) to (367,127,-1873)
+2023-03-25 17:32:41: [Emerge-0]: [w2mt] Generating (368,48,-1952) to (447,127,-1873)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (208,-32,-1952) to (287,47,-1873)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (208,48,-1952) to (287,127,-1873)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (208,48,-1872) to (287,127,-1793)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (208,-112,-1952) to (287,-33,-1873)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (208,-192,-1872) to (287,-113,-1793)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (368,-192,-1952) to (447,-113,-1873)
+2023-03-25 17:32:42: [Emerge-0]: [w2mt] Generating (288,-192,-1952) to (367,-113,-1873)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (448,-192,-1952) to (527,-113,-1873)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (288,-32,-2032) to (367,47,-1953)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (368,-32,-2032) to (447,47,-1953)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (448,-32,-2032) to (527,47,-1953)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (288,-112,-2032) to (367,-33,-1953)
+2023-03-25 17:32:44: [Emerge-0]: [w2mt] Generating (368,-112,-2032) to (447,-33,-1953)
+2023-03-25 17:32:45: [Emerge-0]: [w2mt] Generating (208,-192,-1952) to (287,-113,-1873)
+2023-03-25 17:32:45: [Emerge-0]: [w2mt] Generating (448,-112,-2032) to (527,-33,-1953)
+2023-03-25 17:32:45: [Emerge-0]: [w2mt] Generating (208,-32,-2032) to (287,47,-1953)
+2023-03-25 17:32:46: [Emerge-0]: [w2mt] Generating (208,-112,-2032) to (287,-33,-1953)
+2023-03-25 17:32:47: [Emerge-0]: [w2mt] Generating (288,-192,-2032) to (367,-113,-1953)
+2023-03-25 17:32:47: [Emerge-0]: [w2mt] Generating (368,-192,-2032) to (447,-113,-1953)
+2023-03-25 17:32:48: [Emerge-0]: [w2mt] Generating (448,-192,-2032) to (527,-113,-1953)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (448,48,-2032) to (527,127,-1953)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (528,-32,-2032) to (607,47,-1953)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (528,-32,-1952) to (607,47,-1873)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (528,-112,-2032) to (607,-33,-1953)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (528,-112,-1952) to (607,-33,-1873)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (528,48,-2032) to (607,127,-1953)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (368,-32,-2112) to (447,47,-2033)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (448,-32,-2112) to (527,47,-2033)
+2023-03-25 17:32:49: [Emerge-0]: [w2mt] Generating (368,-112,-2112) to (447,-33,-2033)
+2023-03-25 17:32:50: [Emerge-0]: [w2mt] Generating (448,-112,-2112) to (527,-33,-2033)
+2023-03-25 17:32:50: [Emerge-0]: [w2mt] Generating (448,48,-2112) to (527,127,-2033)
+2023-03-25 17:32:50: [Emerge-0]: [w2mt] Generating (528,-32,-2112) to (607,47,-2033)
+2023-03-25 17:32:50: [Emerge-0]: [w2mt] Generating (528,-192,-1952) to (607,-113,-1873)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (288,-32,-2112) to (367,47,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (528,-112,-2112) to (607,-33,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (288,-112,-2112) to (367,-33,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (288,-192,-2112) to (367,-113,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (368,-192,-2112) to (447,-113,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (448,-192,-2112) to (527,-113,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (528,-192,-2032) to (607,-113,-1953)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (208,-32,-2112) to (287,47,-2033)
+2023-03-25 17:32:52: [Emerge-0]: [w2mt] Generating (208,-112,-2112) to (287,-33,-2033)
+2023-03-25 17:32:53: [Emerge-0]: [w2mt] Generating (368,128,-1952) to (447,207,-1873)
+2023-03-25 17:32:55: ACTION[Server]: Mentor places node travelnet:travelnet at (423,1,-1940)
+2023-03-25 17:32:57: [Emerge-0]: [w2mt] Generating (528,-192,-2112) to (607,-113,-2033)
+2023-03-25 17:32:57: [Emerge-0]: [w2mt] Generating (208,-192,-2032) to (287,-113,-1953)
+2023-03-25 17:33:00: [Emerge-0]: [w2mt] Generating (288,-32,-2192) to (367,47,-2113)
+2023-03-25 17:33:00: [Emerge-0]: [w2mt] Generating (368,-32,-2192) to (447,47,-2113)
+2023-03-25 17:33:00: [Emerge-0]: [w2mt] Generating (288,-112,-2192) to (367,-33,-2113)
+2023-03-25 17:33:00: [Emerge-0]: [w2mt] Generating (368,-112,-2192) to (447,-33,-2113)
+2023-03-25 17:33:00: [Emerge-0]: [w2mt] Generating (448,-112,-2192) to (527,-33,-2113)
+2023-03-25 17:33:02: [Emerge-0]: [w2mt] Generating (208,-32,-2192) to (287,47,-2113)
+2023-03-25 17:33:02: [Emerge-0]: [w2mt] Generating (208,-112,-2192) to (287,-33,-2113)
+2023-03-25 17:33:02: [Emerge-0]: [w2mt] Generating (208,-192,-2112) to (287,-113,-2033)
+2023-03-25 17:33:03: [Emerge-0]: [w2mt] Generating (288,-192,-2192) to (367,-113,-2113)
+2023-03-25 17:33:03: [Emerge-0]: [w2mt] Generating (368,-192,-2192) to (447,-113,-2113)
+2023-03-25 17:33:03: [Emerge-0]: [w2mt] Generating (448,-32,-2192) to (527,47,-2113)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (208,-192,-2192) to (287,-113,-2113)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (288,-32,-2272) to (367,47,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (368,-32,-2272) to (447,47,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (288,-112,-2272) to (367,-33,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (368,-112,-2272) to (447,-33,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (448,-112,-2272) to (527,-33,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (208,-32,-2272) to (287,47,-2193)
+2023-03-25 17:33:04: [Emerge-0]: [w2mt] Generating (208,-112,-2272) to (287,-33,-2193)
+2023-03-25 17:33:06: [Emerge-0]: [w2mt] Generating (288,-192,-2272) to (367,-113,-2193)
+2023-03-25 17:33:06: [Emerge-0]: [w2mt] Generating (368,-192,-2272) to (447,-113,-2193)
+2023-03-25 17:33:07: [Emerge-0]: [w2mt] Generating (448,-32,-2272) to (527,47,-2193)
+2023-03-25 17:33:07: [Emerge-0]: [w2mt] Generating (208,-192,-2272) to (287,-113,-2193)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (128,-32,-2272) to (207,47,-2193)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (128,-32,-2192) to (207,47,-2113)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (128,-112,-2272) to (207,-33,-2193)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (128,-112,-2192) to (207,-33,-2113)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (208,-32,-2352) to (287,47,-2273)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (288,-32,-2352) to (367,47,-2273)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (368,-32,-2352) to (447,47,-2273)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (288,-112,-2352) to (367,-33,-2273)
+2023-03-25 17:33:08: [Emerge-0]: [w2mt] Generating (368,-112,-2352) to (447,-33,-2273)
+2023-03-25 17:33:09: [Emerge-0]: [w2mt] Generating (208,-112,-2352) to (287,-33,-2273)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (288,48,-2192) to (367,127,-2113)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (288,48,-2272) to (367,127,-2193)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (368,48,-2272) to (447,127,-2193)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (288,128,-2192) to (367,207,-2113)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (288,128,-2112) to (367,207,-2033)
+2023-03-25 17:33:10: [Emerge-0]: [w2mt] Generating (208,48,-2272) to (287,127,-2193)
+2023-03-25 17:33:11: [Emerge-0]: [w2mt] Generating (448,-32,-2352) to (527,47,-2273)
+2023-03-25 17:33:11: [Emerge-0]: [w2mt] Generating (448,-112,-2352) to (527,-33,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (128,-32,-2352) to (207,47,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (128,-112,-2352) to (207,-33,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (128,-112,-2112) to (207,-33,-2033)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (288,-192,-2352) to (367,-113,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (368,-192,-2352) to (447,-113,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (128,-192,-2192) to (207,-113,-2113)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (208,-192,-2352) to (287,-113,-2273)
+2023-03-25 17:33:12: [Emerge-0]: [w2mt] Generating (128,-32,-2112) to (207,47,-2033)
+2023-03-25 17:33:13: [Emerge-0]: [w2mt] Generating (128,-32,-2032) to (207,47,-1953)
+2023-03-25 17:33:13: [Emerge-0]: [w2mt] Generating (128,-192,-2272) to (207,-113,-2193)
+2023-03-25 17:33:15: [Emerge-0]: [w2mt] Generating (128,-192,-2112) to (207,-113,-2033)
+2023-03-25 17:33:15: [Emerge-0]: [w2mt] Generating (448,48,-2272) to (527,127,-2193)
+2023-03-25 17:33:16: [Emerge-0]: [w2mt] Generating (128,-192,-2352) to (207,-113,-2273)
+2023-03-25 17:33:16: [Emerge-0]: [w2mt] Generating (128,-112,-2032) to (207,-33,-1953)
+2023-03-25 17:33:16: ACTION[Server]: Mentor places node travelnet:travelnet at (317,1,-2169)
+2023-03-25 17:33:26: [Emerge-0]: [w2mt] Generating (-432,48,48) to (-353,127,127)
+2023-03-25 17:33:29: [Emerge-0]: [w2mt] Generating (-352,-32,128) to (-273,47,207)
+2023-03-25 17:33:29: [Emerge-0]: [w2mt] Generating (-352,-112,128) to (-273,-33,207)
+2023-03-25 17:35:16: [Emerge-0]: [w2mt] Generating (128,128,-32) to (207,207,47)
+2023-03-25 17:35:18: ACTION[Server]: Mentor places node travelnet:travelnet at (-17,1,-71)
+2023-03-25 17:35:27: ACTION[Server]: Mentor leaves game. List of players: 
+2023-03-25 17:35:47: ACTION[Server]: Mentor [79.196.28.149] joins game. List of players: Mentor
+2023-03-25 17:35:47: WARNING[Server]: Deprecated call to get_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:105)
+2023-03-25 17:35:47: WARNING[Server]: Deprecated call to set_attribute, use MetaDataRef methods instead. (at /config/.minetest/mods/skybox/init.lua:89)
+2023-03-25 17:36:05: ACTION[Server]: Mentor changes password
+2023-03-25 17:36:14: [Emerge-0]: [w2mt] Generating (128,128,-112) to (207,207,-33)
+2023-03-25 17:36:18: [Emerge-0]: [w2mt] Generating (-112,48,-912) to (-33,127,-833)
+2023-03-25 17:36:19: [Emerge-0]: [w2mt] Generating (-112,48,-992) to (-33,127,-913)
+2023-03-25 17:36:19: [Emerge-0]: [w2mt] Generating (-32,128,-912) to (47,207,-833)
+2023-03-25 17:36:19: [Emerge-0]: [w2mt] Generating (48,128,-912) to (127,207,-833)
+2023-03-25 17:36:19: [Emerge-0]: [w2mt] Generating (128,48,-992) to (207,127,-913)
+2023-03-25 17:36:20: [Emerge-0]: [w2mt] Generating (128,48,-912) to (207,127,-833)
+2023-03-25 17:36:20: [Emerge-0]: [w2mt] Generating (128,48,-832) to (207,127,-753)
+2023-03-25 17:36:21: [Emerge-0]: [w2mt] Generating (-112,48,-1072) to (-33,127,-993)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (48,48,-1152) to (127,127,-1073)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (-192,-112,-912) to (-113,-33,-833)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (-192,48,-1152) to (-113,127,-1073)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (-192,48,-1072) to (-113,127,-993)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (-192,48,-992) to (-113,127,-913)
+2023-03-25 17:36:22: [Emerge-0]: [w2mt] Generating (-112,48,-1152) to (-33,127,-1073)
+2023-03-25 17:36:25: [Emerge-0]: [w2mt] Generating (128,48,-1152) to (207,127,-1073)
+2023-03-25 17:36:27: [Emerge-0]: [w2mt] Generating (208,-32,-1072) to (287,47,-993)
+2023-03-25 17:36:27: [Emerge-0]: [w2mt] Generating (208,-32,-992) to (287,47,-913)
+2023-03-25 17:36:28: [Emerge-0]: [w2mt] Generating (208,-32,-912) to (287,47,-833)
+2023-03-25 17:36:28: [Emerge-0]: [w2mt] Generating (208,-112,-1072) to (287,-33,-993)
+2023-03-25 17:36:28: [Emerge-0]: [w2mt] Generating (208,-112,-992) to (287,-33,-913)
+2023-03-25 17:36:28: [Emerge-0]: [w2mt] Generating (208,-112,-912) to (287,-33,-833)
+2023-03-25 17:36:28: [Emerge-0]: [w2mt] Generating (208,48,-1072) to (287,127,-993)
+2023-03-25 17:36:31: [Emerge-0]: [w2mt] Generating (-192,-32,-912) to (-113,47,-833)
+2023-03-25 17:36:31: [Emerge-0]: [w2mt] Generating (-112,-192,-912) to (-33,-113,-833)
+2023-03-25 17:36:42: [Main]: INFO: signal_handler(): got SIGTERM, shutting down.
+2023-03-25 17:36:42: ACTION[Main]: Server: Shutting down
